@@ -278,3 +278,11 @@ body.menu-open .whatsapp-float{visibility:hidden}
 @media(max-width:900px){.profile-hero-grid{grid-template-columns:1fr .72fr;gap:25px}.profile-expertise-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.profile-overview-grid,.profile-credentials-grid{gap:35px}}
 @media(max-width:680px){.profile-hero-grid,.profile-overview-grid,.profile-credentials-grid{grid-template-columns:1fr}.profile-hero-copy{padding:32px 0 30px}.profile-hero .breadcrumbs{margin-bottom:50px}.profile-hero-photo{width:min(100%,380px);justify-self:center}.profile-facts-grid{grid-template-columns:1fr}.profile-facts-grid>div,.profile-facts-grid>div:first-child{padding:17px 0;border-left:0;border-bottom:1px solid #c9dceb}.profile-facts-grid>div:last-child{border-bottom:0}.profile-overview-grid>div:last-child{padding-top:0}.profile-connect-grid{align-items:flex-start;flex-direction:column;gap:30px}.profile-credential-list>div{grid-template-columns:1fr;gap:5px}}
 @media(max-width:520px){.profile-expertise-grid{grid-template-columns:1fr}.profile-expertise-grid article{min-height:0}.profile-hero-actions{align-items:flex-start;flex-direction:column}}
+
+/* Keep lettering comfortable to read across every page and screen size. */
+body{letter-spacing:.012em;line-height:1.7}
+h1,h2,h3{letter-spacing:-.012em;line-height:1.2}
+h3,.service-card h3,.approach-points h3{letter-spacing:0;line-height:1.3}
+.hero h1,.service-hero h1,.services-landing-hero h1,.profile-hero h1{letter-spacing:-.02em;line-height:1.12}
+.eyebrow,.hero-bottom,.contact-label,.note-mark,.company-page .person-caption small,.company-capability-grid span,.category-number,.category-list-label,.profile-expertise-grid article>span{letter-spacing:.1em}
+@media(max-width:360px){.profile-overview h2,.profile-credentials h2,.profile-connect h2{font-size:2.1rem}}
