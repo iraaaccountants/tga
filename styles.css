@@ -27,7 +27,7 @@ h2{font-size:clamp(2.3rem,4vw,4.1rem);font-weight:700}
 .eyebrow-line{width:26px;height:2px;background:var(--bright);flex:0 0 auto}.eyebrow-on-dark{color:#9adcf5}
 .button{display:inline-flex;align-items:center;justify-content:space-between;gap:24px;padding:15px 20px;border-radius:4px;font-weight:700;font-size:.91rem;min-height:52px;transition:transform .2s,background .2s,box-shadow .2s}.button:hover{transform:translateY(-3px)}.button span{font-size:1.1rem}.button-light{background:#fff;color:var(--blue);box-shadow:0 8px 24px rgba(0,0,0,.1)}.button-light:hover{background:#e9f7fd}.button-outline{border:1px solid rgba(255,255,255,.55);color:#fff}.button-outline:hover{background:rgba(255,255,255,.1)}
 .hero{min-height:680px;position:relative;display:flex;align-items:center;overflow:hidden;background:var(--deep);color:#fff}
-.hero-photo,.hero-shade{position:absolute;inset:0}.hero-photo{background:url('assets/dubai-skyline.jpg') center 58%/cover no-repeat;opacity:.85}.hero-shade{background:linear-gradient(90deg,rgba(3,24,60,.95) 0%,rgba(4,36,83,.89) 41%,rgba(3,37,88,.45) 100%),linear-gradient(0deg,rgba(1,20,48,.55),transparent 38%)}
+.hero-photo,.hero-shade{position:absolute;inset:0}.hero-photo{background:url('assets/dubai-skyline.webp') center 58%/cover no-repeat;opacity:.85}.hero-shade{background:linear-gradient(90deg,rgba(3,24,60,.95) 0%,rgba(4,36,83,.89) 41%,rgba(3,37,88,.45) 100%),linear-gradient(0deg,rgba(1,20,48,.55),transparent 38%)}
 .hero-grid{position:relative;z-index:1;display:grid;grid-template-columns:minmax(0,760px) minmax(220px,300px);justify-content:space-between;gap:60px;align-items:end;padding-top:95px;padding-bottom:125px}
 .hero-eyebrow{color:#a5e5ff;margin-bottom:30px}.hero h1{font-size:clamp(3.3rem,5.8vw,5.8rem);font-weight:700;max-width:830px;margin:0 0 25px;letter-spacing:-.06em}.hero h1 em,.approach h2 em{font-style:normal;color:#49c6f1}.hero-lead{font-size:clamp(1.05rem,1.4vw,1.25rem);line-height:1.7;max-width:600px;color:#dcebf8;margin-bottom:34px}.hero-actions{display:flex;align-items:center;gap:30px;flex-wrap:wrap}.text-link{font-weight:700;font-size:.92rem}.light-link{color:#fff}.light-link span{margin-left:8px}.light-link:hover{text-decoration:underline;text-underline-offset:6px}
 .hero-note{background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.24);backdrop-filter:blur(14px);padding:30px;max-width:290px;align-self:end}.note-mark{color:#6ccef3;letter-spacing:.17em;font-size:.78rem;font-weight:800}.note-rule{display:block;width:38px;height:2px;background:var(--bright);margin:22px 0}.hero-note strong{display:block;font-size:1.25rem;line-height:1.4}.hero-note p{font-size:.9rem;line-height:1.65;color:#d2e5f4;margin:13px 0 0}
@@ -47,7 +47,7 @@ h2{font-size:clamp(2.3rem,4vw,4.1rem);font-weight:700}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition-duration:.01ms!important;animation-duration:.01ms!important}}
 
 /* Let the supplied leadership portraits fill their entire photo panels. */
-.person-photo{height:auto;aspect-ratio:1/1;background:#e8f0f6 url('assets/leadership-background.png') center/cover no-repeat}
+.person-photo{height:auto;aspect-ratio:1/1;background:#e8f0f6 url('assets/leadership-background.webp') center/cover no-repeat}
 .person-photo img{width:100%;height:100%;object-fit:cover;object-position:center top}
 @media(max-width:520px){.person-photo{aspect-ratio:4/5}}
 
