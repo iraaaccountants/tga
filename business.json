@@ -1,0 +1,21 @@
+{
+  "name": "TGA Manangement Consultancy LLC",
+  "shortName": "TGA",
+  "description": "Dubai-based consultancy providing UAE business setup, accounting, tax, transfer pricing and compliance support.",
+  "website": "https://www.tga-uae.com/",
+  "address": {
+    "streetAddress": "Office 105, Al Jawhara Building, Mankhool",
+    "city": "Dubai",
+    "countryCode": "AE"
+  },
+  "contact": {
+    "phones": ["+971547955588", "+971569210222"],
+    "emails": ["Vyom.acharya@tga-uae.com", "kintu.gandhi@tga-uae.com"]
+  },
+  "services": [
+    {"name": "UAE business setup and PRO services", "url": "https://www.tga-uae.com/#services"},
+    {"name": "Accounting, bookkeeping and audit support", "url": "https://www.tga-uae.com/#services"},
+    {"name": "UAE tax advisory and transfer pricing", "url": "https://www.tga-uae.com/#services"},
+    {"name": "AML compliance assistance", "url": "https://www.tga-uae.com/#services"}
+  ]
+}

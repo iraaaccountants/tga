@@ -1,0 +1,18 @@
+# TGA Manangement Consultancy LLC
+
+> TGA is a Dubai-based consultancy providing UAE business setup, PRO, accounting, tax, transfer pricing, audit assistance and AML compliance support.
+
+The official website is https://www.tga-uae.com/. The company is based at Office 105, Al Jawhara Building, Mankhool, Dubai, UAE. Service descriptions are general information; contact TGA for advice about a specific matter. The company name is presented here as supplied by TGA.
+
+## Company information
+
+- [Website overview](https://www.tga-uae.com/index.md): Plain-language summary of services, leadership and contact details.
+- [Company profile data](https://www.tga-uae.com/business.json): Read-only JSON record of the same public information.
+- [OpenAPI description](https://www.tga-uae.com/openapi.json): Machine-readable description of the company profile JSON resource.
+
+## Website sections
+
+- [About TGA](https://www.tga-uae.com/#about): Company overview and approach.
+- [Services](https://www.tga-uae.com/#services): Business setup, accounting, tax and AML compliance assistance.
+- [Leadership](https://www.tga-uae.com/#leadership): Kintu Gandhi and Vyom Acharya.
+- [Contact](https://www.tga-uae.com/#contact): Dubai office, telephone numbers and email addresses.

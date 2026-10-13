@@ -1,0 +1,72 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "TGA Public Business Profile",
+    "version": "1.0.0",
+    "description": "Read-only public business information from the TGA website. This static resource does not provide contact submission, booking, pricing or transactional operations."
+  },
+  "servers": [{"url": "https://www.tga-uae.com"}],
+  "security": [],
+  "externalDocs": {"description": "TGA website", "url": "https://www.tga-uae.com/"},
+  "paths": {
+    "/business.json": {
+      "get": {
+        "operationId": "getBusinessProfile",
+        "summary": "Get TGA's public business profile",
+        "responses": {
+          "200": {
+            "description": "Public business profile",
+            "content": {
+              "application/json": {
+                "schema": {"$ref": "#/components/schemas/BusinessProfile"}
+              }
+            }
+          },
+          "404": {"description": "Profile resource not found"}
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "BusinessProfile": {
+        "type": "object",
+        "required": ["name", "shortName", "description", "website", "address", "contact", "services"],
+        "properties": {
+          "name": {"type": "string"},
+          "shortName": {"type": "string"},
+          "description": {"type": "string"},
+          "website": {"type": "string", "format": "uri"},
+          "address": {"$ref": "#/components/schemas/Address"},
+          "contact": {"$ref": "#/components/schemas/Contact"},
+          "services": {"type": "array", "items": {"$ref": "#/components/schemas/Service"}}
+        }
+      },
+      "Address": {
+        "type": "object",
+        "required": ["streetAddress", "city", "countryCode"],
+        "properties": {
+          "streetAddress": {"type": "string"},
+          "city": {"type": "string"},
+          "countryCode": {"type": "string", "pattern": "^[A-Z]{2}$"}
+        }
+      },
+      "Contact": {
+        "type": "object",
+        "required": ["phones", "emails"],
+        "properties": {
+          "phones": {"type": "array", "items": {"type": "string"}},
+          "emails": {"type": "array", "items": {"type": "string", "format": "email"}}
+        }
+      },
+      "Service": {
+        "type": "object",
+        "required": ["name", "url"],
+        "properties": {
+          "name": {"type": "string"},
+          "url": {"type": "string", "format": "uri"}
+        }
+      }
+    }
+  }
+}

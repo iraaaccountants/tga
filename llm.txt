@@ -1,0 +1,3 @@
+# TGA AI-readable website guide
+
+See the standard [llms.txt](https://www.tga-uae.com/llms.txt) file for the company summary and source links.
