@@ -32,6 +32,10 @@ function openServicesMenu() {
 }
 
 servicesButton.addEventListener('click', () => {
+  if (window.matchMedia('(min-width: 761px)').matches) {
+    openServicesMenu();
+    return;
+  }
   if (servicesMenu.classList.contains('open')) closeServicesMenu();
   else openServicesMenu();
 });

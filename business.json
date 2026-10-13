@@ -100,5 +100,8 @@
         }
       ]
     }
-  ]
+  ],
+  "aboutPage": "https://www.tga-uae.com/about.html",
+  "teamPage": "https://www.tga-uae.com/about.html#team",
+  "contactPage": "https://www.tga-uae.com/contact.html"
 }

@@ -2,6 +2,8 @@
 
 TGA is a Dubai-based consultancy providing business setup, financial and compliance support for companies operating in the United Arab Emirates. Its website is https://www.tga-uae.com/.
 
+[About TGA and our team](https://www.tga-uae.com/about.html) explains the company's approach and introduces its partners.
+
 ## Services
 
 - **UAE business setup and PRO services:** Business structure advice, company setup and PRO processes, liquidation process assistance and Golden Visa assistance.
@@ -18,7 +20,7 @@ Browse the [complete services and subservices directory](https://www.tga-uae.com
 - Tax: [tax registration and annual filing](https://www.tga-uae.com/tax-registration-annual-filing.html), [tax advisory](https://www.tga-uae.com/tax-advisory.html), [transfer pricing studies and benchmarking](https://www.tga-uae.com/transfer-pricing-studies-benchmarking.html), [international transfer pricing](https://www.tga-uae.com/international-transfer-pricing.html), [VAT registration and filing](https://www.tga-uae.com/vat-registration-filing.html), and [Corporate Tax registration and filing](https://www.tga-uae.com/corporate-tax-registration-filing.html).
 - Compliance: [AML compliance assistance](https://www.tga-uae.com/aml-compliance-assistance.html).
 
-## Leadership
+## Our team
 
 - Kintu Gandhi, Managing Partner.
 - Vyom Acharya, Partner.
@@ -30,3 +32,5 @@ Browse the [complete services and subservices directory](https://www.tga-uae.com
 - Email: kintu.gandhi@tga-uae.com; Vyom.acharya@tga-uae.com.
 
 For current service scope and advice about a specific matter, contact TGA directly. Source: https://www.tga-uae.com/.
+
+[Contact TGA](https://www.tga-uae.com/contact.html) for telephone, WhatsApp, email and office details.
