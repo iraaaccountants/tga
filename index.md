@@ -25,12 +25,12 @@ Browse the [complete services and subservices directory](https://www.tga-uae.com
 
 - [Kintu Gandhi](https://www.tga-uae.com/kintu-gandhi.html), Managing Partner.
 - Vyom Acharya, Partner.
-- Shivam Gupta, Account Manager (Tax).
+- Shivam Gupta, Manager (Tax).
+- Shivam Tandon, Senior Accountant.
 - Adarsh Suryavanshi, Tax Consultant.
 - Rahul Singh, Senior Accountant.
 - Reshu Pal, Accountant.
 - Ritik Singh, Account Executive.
-- Shivam Tandon, Senior Accountant.
 - Michelle Delfin, Business Setup Consultant.
 - Sahaj Pushalkar, Digital Marketing Executive.
 

@@ -13,12 +13,12 @@ TGA supports companies in Dubai and across the UAE with business structure and s
 
 - [Kintu Gandhi](https://www.tga-uae.com/kintu-gandhi.html) — Managing Partner
 - Vyom Acharya — Partner
-- Shivam Gupta — Account Manager, Tax Division
+- Shivam Gupta — Manager, Tax Division
+- Shivam Tandon — Senior Accountant
 - Adarsh Suryavanshi — Tax Consultant, Tax Division
 - Rahul Singh — Senior Accountant, Account Division
 - Reshu Pal — Accountant, Account Division
 - Ritik Singh — Account Executive, Account Division
-- Shivam Tandon — Senior Accountant
 - Michelle Delfin — Business Setup Consultant, CSP Division
 - Sahaj Pushalkar — Digital Marketing Executive
 
