@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "TGA Public Business Profile",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Read-only public business information from the TGA website. This static resource does not provide contact submission, booking, pricing or transactional operations."
   },
   "servers": [{"url": "https://www.tga-uae.com"}],

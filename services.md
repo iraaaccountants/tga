@@ -10,10 +10,10 @@ Support for the decisions, documents and practical steps involved in starting, c
 
 [Full service page](https://www.tga-uae.com/business-setup-pro.html)
 
-- [Business structure advisory](https://www.tga-uae.com/business-setup-pro.html#business-structure-advisory): Consider how ownership, activity and operating plans affect the setup route.
-- [Company setup & PRO services](https://www.tga-uae.com/business-setup-pro.html#company-setup-and-pro-services): Organise formation information, applications and PRO coordination.
-- [Liquidation process assistance](https://www.tga-uae.com/business-setup-pro.html#liquidation-process-assistance): Work through the administrative steps of closing an existing business.
-- [Golden Visa assistance](https://www.tga-uae.com/business-setup-pro.html#golden-visa-assistance): Discuss an application route and the information needed for it.
+- [Business structure advisory](https://www.tga-uae.com/business-structure-advisory.md): Consider how ownership, activity and operating plans affect the setup route.
+- [Company setup & PRO services](https://www.tga-uae.com/company-setup-pro-services.md): Organise formation information, applications and PRO coordination.
+- [Liquidation process assistance](https://www.tga-uae.com/liquidation-process-assistance.md): Work through the administrative steps of closing an existing business.
+- [Golden Visa assistance](https://www.tga-uae.com/golden-visa-assistance.md): Discuss an application route and the information needed for it.
 
 ## Accounting & financial reporting
 
@@ -21,20 +21,22 @@ Help with reliable financial records, reporting questions and preparation for au
 
 [Full service page](https://www.tga-uae.com/accounting-bookkeeping-audit.html)
 
-- [Accounting & bookkeeping](https://www.tga-uae.com/accounting-bookkeeping-audit.html#accounting-and-bookkeeping): Keep transactions and records organised for reporting and review.
-- [Audit & assurance assistance](https://www.tga-uae.com/accounting-bookkeeping-audit.html#audit-and-assurance-assistance): Bring together schedules, records and responses for an audit process.
-- [IFRS studies & impact assessments](https://www.tga-uae.com/accounting-bookkeeping-audit.html#ifrs-studies-and-impact-assessments): Examine how a reporting issue or change may affect financial information.
+- [Accounting & bookkeeping](https://www.tga-uae.com/accounting-bookkeeping.md): Keep transactions and records organised for reporting and review.
+- [Audit & assurance assistance](https://www.tga-uae.com/audit-assurance-assistance.md): Bring together schedules, records and responses for an audit process.
+- [IFRS studies & impact assessments](https://www.tga-uae.com/ifrs-studies-impact-assessments.md): Examine how a reporting issue or change may affect financial information.
 
-## Tax advisory & transfer pricing
+## Tax, VAT & transfer pricing
 
-Support for tax registration, annual filing work and the analysis of domestic or cross-border related-party arrangements.
+Support for tax registration, VAT and Corporate Tax filings, advisory questions and domestic or cross-border transfer pricing work.
 
 [Full service page](https://www.tga-uae.com/tax-advisory-transfer-pricing.html)
 
-- [Tax registration & annual filing](https://www.tga-uae.com/tax-advisory-transfer-pricing.html#tax-registration-and-annual-filing): Organise the information needed for applicable registrations and filings.
-- [Tax advisory](https://www.tga-uae.com/tax-advisory-transfer-pricing.html#tax-advisory): Work through a tax question using the facts of your business.
-- [Transfer pricing studies & benchmarking](https://www.tga-uae.com/tax-advisory-transfer-pricing.html#transfer-pricing-studies-and-benchmarking): Support analysis and relevant comparisons for related-party pricing.
-- [International transfer pricing](https://www.tga-uae.com/tax-advisory-transfer-pricing.html#international-transfer-pricing): Review cross-border related-party arrangements and related documentation.
+- [Tax registration & annual filing](https://www.tga-uae.com/tax-registration-annual-filing.md): Organise the information needed for applicable registrations and filings.
+- [Tax advisory](https://www.tga-uae.com/tax-advisory.md): Work through a tax question using the facts of your business.
+- [Transfer pricing studies & benchmarking](https://www.tga-uae.com/transfer-pricing-studies-benchmarking.md): Support analysis and relevant comparisons for related-party pricing.
+- [International transfer pricing](https://www.tga-uae.com/international-transfer-pricing.md): Review cross-border related-party arrangements and related documentation.
+- [VAT registration & filing](https://www.tga-uae.com/vat-registration-filing.md): Review taxable activity and organise VAT registration or return information.
+- [Corporate Tax registration & filing](https://www.tga-uae.com/corporate-tax-registration-filing.md): Bring together entity details and financial records for Corporate Tax work.
 
 ## AML compliance assistance
 
@@ -42,6 +44,6 @@ A practical starting point for reviewing anti-money laundering questions relevan
 
 [Full service page](https://www.tga-uae.com/aml-compliance.html)
 
-- [AML compliance assistance](https://www.tga-uae.com/aml-compliance.html#overview): Discuss current practices, available records and the areas needing attention.
+- [AML compliance assistance](https://www.tga-uae.com/aml-compliance-assistance.md): Discuss current practices, available records and the areas needing attention.
 
 Contact: kintu.gandhi@tga-uae.com or +971 56 921 0222.

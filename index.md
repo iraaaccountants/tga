@@ -6,7 +6,7 @@ TGA is a Dubai-based consultancy providing business setup, financial and complia
 
 - **UAE business setup and PRO services:** Business structure advice, company setup and PRO processes, liquidation process assistance and Golden Visa assistance.
 - **Accounting, bookkeeping and audit support:** Financial recordkeeping, accounting, audit and assurance assistance, and IFRS studies and impact assessments.
-- **UAE tax advisory and transfer pricing:** Tax registration and annual filing support, tax advice, transfer pricing studies and benchmarking, and international transfer pricing.
+- **UAE tax, VAT and transfer pricing:** Tax registration and annual filing support, VAT and Corporate Tax registration and filing, tax advice, transfer pricing studies and benchmarking, and international transfer pricing.
 - **AML compliance assistance:** Practical help with applicable anti-money laundering requirements.
 
 Browse the [complete services and subservices directory](https://www.tga-uae.com/services.html), or read the full service pages: [business setup and PRO](https://www.tga-uae.com/business-setup-pro.html), [accounting and audit support](https://www.tga-uae.com/accounting-bookkeeping-audit.html), [tax and transfer pricing](https://www.tga-uae.com/tax-advisory-transfer-pricing.html), and [AML compliance](https://www.tga-uae.com/aml-compliance.html).

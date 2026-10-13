@@ -1,11 +1,11 @@
-# UAE tax advisory & transfer pricing
+# UAE tax, VAT & transfer pricing
 
-> TGA helps businesses organise tax information, address filing work and examine related-party pricing questions with a clear view of the facts.
+> TGA helps businesses organise VAT and Corporate Tax information, address filing work and examine related-party pricing questions with a clear view of the facts.
 
 Make tax decisions with better information.
 
 Tax work begins with understanding the business, its transactions and the information already available. Registration, annual filings and advisory questions need a consistent factual base, especially when a company has more than one activity or operates across borders.
-TGA lists tax registration and annual filing, tax advisory, transfer pricing studies with benchmarking assistance, and international transfer pricing among its services. We can discuss the issue, review relevant information and agree the analysis or filing support required.
+TGA supports tax registration and annual filing, VAT and Corporate Tax registration and filing, tax advisory, transfer pricing studies with benchmarking assistance, and international transfer pricing. We can discuss the issue, review relevant information and agree the analysis or filing support required.
 
 ## Areas of tax support
 
@@ -13,6 +13,8 @@ TGA lists tax registration and annual filing, tax advisory, transfer pricing stu
 - **Tax advisory:** Examine a tax question in the context of your business activities, records and planned transactions, and outline matters that need attention.
 - **Transfer pricing studies and benchmarking:** Support the analysis of related-party arrangements and relevant comparables for a transfer pricing study.
 - **International transfer pricing:** Review cross-border related-party pricing questions and the documentation or analysis relevant to the specific arrangement.
+- **VAT registration and filing:** Organise taxable activity, transaction records and supporting information for VAT registration or return work.
+- **Corporate Tax registration and filing:** Bring together entity and financial information for applicable Corporate Tax registration or return preparation.
 
 ## From question to action
 

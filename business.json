@@ -10,29 +10,95 @@
     "countryCode": "AE"
   },
   "contact": {
-    "phones": ["+971569210222", "+971547955588"],
-    "emails": ["kintu.gandhi@tga-uae.com", "Vyom.acharya@tga-uae.com"]
+    "phones": [
+      "+971569210222",
+      "+971547955588"
+    ],
+    "emails": [
+      "kintu.gandhi@tga-uae.com",
+      "Vyom.acharya@tga-uae.com"
+    ]
   },
   "services": [
-    {"name": "UAE business setup and PRO services", "url": "https://www.tga-uae.com/business-setup-pro.html", "subservices": [
-      {"name": "Business structure advisory", "url": "https://www.tga-uae.com/business-setup-pro.html#business-structure-advisory"},
-      {"name": "Company setup and PRO services", "url": "https://www.tga-uae.com/business-setup-pro.html#company-setup-and-pro-services"},
-      {"name": "Liquidation process assistance", "url": "https://www.tga-uae.com/business-setup-pro.html#liquidation-process-assistance"},
-      {"name": "Golden Visa assistance", "url": "https://www.tga-uae.com/business-setup-pro.html#golden-visa-assistance"}
-    ]},
-    {"name": "Accounting, bookkeeping and audit support", "url": "https://www.tga-uae.com/accounting-bookkeeping-audit.html", "subservices": [
-      {"name": "Accounting and bookkeeping", "url": "https://www.tga-uae.com/accounting-bookkeeping-audit.html#accounting-and-bookkeeping"},
-      {"name": "Audit and assurance assistance", "url": "https://www.tga-uae.com/accounting-bookkeeping-audit.html#audit-and-assurance-assistance"},
-      {"name": "IFRS studies and impact assessments", "url": "https://www.tga-uae.com/accounting-bookkeeping-audit.html#ifrs-studies-and-impact-assessments"}
-    ]},
-    {"name": "UAE tax advisory and transfer pricing", "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing.html", "subservices": [
-      {"name": "Tax registration and annual filing", "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing.html#tax-registration-and-annual-filing"},
-      {"name": "Tax advisory", "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing.html#tax-advisory"},
-      {"name": "Transfer pricing studies and benchmarking", "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing.html#transfer-pricing-studies-and-benchmarking"},
-      {"name": "International transfer pricing", "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing.html#international-transfer-pricing"}
-    ]},
-    {"name": "AML compliance assistance", "url": "https://www.tga-uae.com/aml-compliance.html", "subservices": [
-      {"name": "AML compliance assistance", "url": "https://www.tga-uae.com/aml-compliance.html#overview"}
-    ]}
+    {
+      "name": "Business setup & corporate services",
+      "url": "https://www.tga-uae.com/business-setup-pro.html",
+      "subservices": [
+        {
+          "name": "Business structure advisory",
+          "url": "https://www.tga-uae.com/business-structure-advisory.html"
+        },
+        {
+          "name": "Company setup & PRO services",
+          "url": "https://www.tga-uae.com/company-setup-pro-services.html"
+        },
+        {
+          "name": "Liquidation process assistance",
+          "url": "https://www.tga-uae.com/liquidation-process-assistance.html"
+        },
+        {
+          "name": "Golden Visa assistance",
+          "url": "https://www.tga-uae.com/golden-visa-assistance.html"
+        }
+      ]
+    },
+    {
+      "name": "Accounting & financial reporting",
+      "url": "https://www.tga-uae.com/accounting-bookkeeping-audit.html",
+      "subservices": [
+        {
+          "name": "Accounting & bookkeeping",
+          "url": "https://www.tga-uae.com/accounting-bookkeeping.html"
+        },
+        {
+          "name": "Audit & assurance assistance",
+          "url": "https://www.tga-uae.com/audit-assurance-assistance.html"
+        },
+        {
+          "name": "IFRS studies & impact assessments",
+          "url": "https://www.tga-uae.com/ifrs-studies-impact-assessments.html"
+        }
+      ]
+    },
+    {
+      "name": "Tax, VAT & transfer pricing",
+      "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing.html",
+      "subservices": [
+        {
+          "name": "Tax registration & annual filing",
+          "url": "https://www.tga-uae.com/tax-registration-annual-filing.html"
+        },
+        {
+          "name": "Tax advisory",
+          "url": "https://www.tga-uae.com/tax-advisory.html"
+        },
+        {
+          "name": "Transfer pricing studies & benchmarking",
+          "url": "https://www.tga-uae.com/transfer-pricing-studies-benchmarking.html"
+        },
+        {
+          "name": "International transfer pricing",
+          "url": "https://www.tga-uae.com/international-transfer-pricing.html"
+        },
+        {
+          "name": "VAT registration & filing",
+          "url": "https://www.tga-uae.com/vat-registration-filing.html"
+        },
+        {
+          "name": "Corporate Tax registration & filing",
+          "url": "https://www.tga-uae.com/corporate-tax-registration-filing.html"
+        }
+      ]
+    },
+    {
+      "name": "AML compliance assistance",
+      "url": "https://www.tga-uae.com/aml-compliance.html",
+      "subservices": [
+        {
+          "name": "AML compliance assistance",
+          "url": "https://www.tga-uae.com/aml-compliance-assistance.html"
+        }
+      ]
+    }
   ]
 }

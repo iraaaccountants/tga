@@ -7,7 +7,7 @@ The official website is https://www.tga-uae.com/. The company is based at Office
 ## Company information
 
 - [Website overview](https://www.tga-uae.com/index.md): Plain-language summary of services, leadership and contact details.
-- [Services directory](https://www.tga-uae.com/services.md): All four service categories and their subservices, with links to detailed pages.
+- [Services directory](https://www.tga-uae.com/services.md): Four categories and 14 individual service pages, including VAT and Corporate Tax filing support.
 - [Company profile data](https://www.tga-uae.com/business.json): Read-only JSON record of the same public information.
 - [OpenAPI description](https://www.tga-uae.com/openapi.json): Machine-readable description of the company profile JSON resource.
 
@@ -22,5 +22,5 @@ The official website is https://www.tga-uae.com/. The company is based at Office
 
 - [UAE business setup and PRO services](https://www.tga-uae.com/business-setup-pro.md): Business structure, company setup, PRO, liquidation and Golden Visa assistance.
 - [Accounting, bookkeeping and audit support](https://www.tga-uae.com/accounting-bookkeeping-audit.md): Financial records, reporting, audit assistance and IFRS impact work.
-- [UAE tax advisory and transfer pricing](https://www.tga-uae.com/tax-advisory-transfer-pricing.md): Registration, annual filing, tax advice and transfer pricing studies.
+- [UAE tax, VAT and transfer pricing](https://www.tga-uae.com/tax-advisory-transfer-pricing.md): Registration, VAT and Corporate Tax filing, tax advice and transfer pricing studies.
 - [AML compliance assistance](https://www.tga-uae.com/aml-compliance.md): Practical scoping and support for AML questions.
