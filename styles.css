@@ -196,16 +196,13 @@ body.menu-open .whatsapp-float{visibility:hidden}
 .company-approach-grid{display:grid;grid-template-columns:1fr 1fr;gap:clamp(55px,10vw,150px)}
 .company-approach-grid>div>p:not(.eyebrow){max-width:560px;color:var(--muted);line-height:1.85}
 .company-approach .service-steps{margin-top:0}
-.team-contact{padding:0 30px 26px}
-.team-contact a{display:inline-flex;gap:14px;color:var(--blue);font-weight:800;font-size:.88rem}
-.team-contact a:hover{text-decoration:underline;text-underline-offset:4px}
 .company-page .people-grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:20px}
 .company-page .person-card{display:flex;flex-direction:column;min-width:0}
 .company-page .person-photo{aspect-ratio:4/5}
 .company-page .person-caption{flex:1;align-items:flex-start;padding:20px 20px 24px}
 .company-page .person-caption small{display:block;margin-bottom:10px;color:var(--blue);font-size:.68rem;font-weight:800;letter-spacing:.13em;text-transform:uppercase}
 .company-page .person-caption h3{line-height:1.25}
-.company-page .team-contact{padding:0 20px 22px}
+@media(min-width:981px){.company-page .person-card:nth-last-child(2):nth-child(4n+1){grid-column:2}}
 @media(max-width:980px){.company-page .people-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:520px){.company-page .people-grid{grid-template-columns:1fr}}
 .company-end-cta{padding:78px 0;background:linear-gradient(125deg,#063d87,#052658);color:#fff}

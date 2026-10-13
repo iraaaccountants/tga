@@ -30,7 +30,9 @@ Browse the [complete services and subservices directory](https://www.tga-uae.com
 - Rahul Singh, Senior Accountant.
 - Reshu Pal, Accountant.
 - Ritik Singh, Account Executive.
+- Shivam Tandon, Senior Accountant.
 - Michelle Delfin, Business Setup Consultant.
+- Sahaj Kumar, Digital Marketing Executive.
 
 ## Contact
 

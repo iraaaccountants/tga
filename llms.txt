@@ -7,7 +7,7 @@ The official website is https://www.tga-uae.com/. The company is based at Office
 ## Company information
 
 - [Website overview](https://www.tga-uae.com/index.md): Plain-language summary of services, team and contact details.
-- [About TGA and our team](https://www.tga-uae.com/about.md): Company overview and eight team members across leadership, tax, accounting and business setup.
+- [About TGA and our team](https://www.tga-uae.com/about.md): Company overview and ten team members across leadership, tax, accounting, business setup and digital marketing.
 - [Contact TGA](https://www.tga-uae.com/contact.md): Dubai office, telephone, WhatsApp and email details.
 - [Frequently asked questions](https://www.tga-uae.com/faq.md): Practical answers about starting work with TGA and its service areas.
 - [Services directory](https://www.tga-uae.com/services.md): Four categories and 14 individual service pages, including VAT and Corporate Tax filing support.
@@ -18,7 +18,7 @@ The official website is https://www.tga-uae.com/. The company is based at Office
 
 - [About TGA](https://www.tga-uae.com/about.html): Company overview and approach.
 - [Services landing page](https://www.tga-uae.com/services.html): Browse all four categories and their subservices.
-- [Our Team](https://www.tga-uae.com/about.html#team): Kintu Gandhi, Vyom Acharya, Shivam Gupta, Adarsh Suryavanshi, Rahul Singh, Reshu Pal, Ritik Singh and Michelle Delfin.
+- [Our Team](https://www.tga-uae.com/about.html#team): Kintu Gandhi, Vyom Acharya, Shivam Gupta, Adarsh Suryavanshi, Rahul Singh, Reshu Pal, Ritik Singh, Shivam Tandon, Michelle Delfin and Sahaj Kumar.
 - [Contact](https://www.tga-uae.com/contact.html): Dubai office, telephone numbers and email addresses.
 - [FAQs](https://www.tga-uae.com/faq.html): Common questions, linked service details and relevant authority guidance.
 
