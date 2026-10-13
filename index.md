@@ -23,7 +23,7 @@ Browse the [complete services and subservices directory](https://www.tga-uae.com
 
 ## Our team
 
-- Kintu Gandhi, Managing Partner.
+- [Kintu Gandhi](https://www.tga-uae.com/kintu-gandhi.html), Managing Partner.
 - Vyom Acharya, Partner.
 - Shivam Gupta, Account Manager (Tax).
 - Adarsh Suryavanshi, Tax Consultant.

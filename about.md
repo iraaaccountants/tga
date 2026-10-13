@@ -11,7 +11,7 @@ TGA supports companies in Dubai and across the UAE with business structure and s
 
 ## Our team
 
-- Kintu Gandhi — Managing Partner
+- [Kintu Gandhi](https://www.tga-uae.com/kintu-gandhi.html) — Managing Partner
 - Vyom Acharya — Partner
 - Shivam Gupta — Account Manager, Tax Division
 - Adarsh Suryavanshi — Tax Consultant, Tax Division
