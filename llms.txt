@@ -13,6 +13,13 @@ The official website is https://www.tga-uae.com/. The company is based at Office
 ## Website sections
 
 - [About TGA](https://www.tga-uae.com/#about): Company overview and approach.
-- [Services](https://www.tga-uae.com/#services): Business setup, accounting, tax and AML compliance assistance.
+- [Services overview](https://www.tga-uae.com/#services): Summary of the four service groups.
 - [Leadership](https://www.tga-uae.com/#leadership): Kintu Gandhi and Vyom Acharya.
 - [Contact](https://www.tga-uae.com/#contact): Dubai office, telephone numbers and email addresses.
+
+## Service details
+
+- [UAE business setup and PRO services](https://www.tga-uae.com/business-setup-pro.md): Business structure, company setup, PRO, liquidation and Golden Visa assistance.
+- [Accounting, bookkeeping and audit support](https://www.tga-uae.com/accounting-bookkeeping-audit.md): Financial records, reporting, audit assistance and IFRS impact work.
+- [UAE tax advisory and transfer pricing](https://www.tga-uae.com/tax-advisory-transfer-pricing.md): Registration, annual filing, tax advice and transfer pricing studies.
+- [AML compliance assistance](https://www.tga-uae.com/aml-compliance.md): Practical scoping and support for AML questions.

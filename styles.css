@@ -91,3 +91,30 @@ html{scroll-padding-top:104px}
 .whatsapp-float svg{width:34px;height:34px}
 body.menu-open .whatsapp-float{visibility:hidden}
 @media(max-width:520px){.whatsapp-float{width:56px;height:56px;right:max(16px,env(safe-area-inset-right));bottom:max(16px,env(safe-area-inset-bottom))}.whatsapp-float svg{width:31px;height:31px}}
+
+/* Dedicated service pages share the homepage brand and navigation. */
+.service-hero{position:relative;overflow:hidden;min-height:490px;background:#072d68 url('assets/dubai-skyline.webp') center 57%/cover no-repeat;color:#fff}
+.service-hero-shade{position:absolute;inset:0;background:linear-gradient(90deg,rgba(3,24,60,.96),rgba(4,36,83,.84) 58%,rgba(3,37,88,.57))}
+.service-hero-inner{position:relative;z-index:1;padding-top:42px;padding-bottom:85px}
+.breadcrumbs{display:flex;flex-wrap:wrap;gap:11px;align-items:center;margin-bottom:66px;color:#cfe4f4;font-size:.78rem;font-weight:700}
+.breadcrumbs a:hover{text-decoration:underline;text-underline-offset:4px}.breadcrumbs span[aria-current]{color:#fff}
+.service-hero .eyebrow{margin-bottom:19px}.service-hero h1{max-width:900px;font-size:clamp(2.9rem,5.6vw,5.5rem);margin-bottom:23px}
+.service-hero-lead{max-width:710px;color:#e2eff9;font-size:clamp(1.05rem,1.45vw,1.22rem);line-height:1.75;margin-bottom:32px}
+.service-layout{display:grid;grid-template-columns:205px minmax(0,1fr);gap:clamp(45px,7vw,105px)}
+.service-aside{position:sticky;top:130px;align-self:start;display:flex;flex-direction:column;border-top:2px solid var(--bright);padding-top:20px;font-size:.84rem;font-weight:700;color:#36516d}
+.service-aside p{margin-bottom:16px;color:var(--blue);font-size:.69rem;text-transform:uppercase;letter-spacing:.17em;font-weight:800}
+.service-aside a{padding:11px 0;border-bottom:1px solid var(--line)}.service-aside a:hover{color:var(--blue)}.service-aside .aside-contact{margin-top:18px;color:var(--blue);border-bottom:0}.aside-contact span{margin-left:10px}
+.service-main{min-width:0}.service-copy{scroll-margin-top:115px;padding-bottom:72px;margin-bottom:72px;border-bottom:1px solid var(--line)}.service-copy:last-child{margin-bottom:0;padding-bottom:0;border-bottom:0}
+.service-copy .eyebrow{margin-bottom:17px}.service-copy h2{max-width:750px;margin-bottom:25px;font-size:clamp(2.2rem,3.4vw,3.5rem)}.service-copy>p:not(.eyebrow){max-width:760px;font-size:1.02rem;line-height:1.88;color:#52647d}
+.detail-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:15px;margin-top:36px}
+.detail-card{min-height:220px;padding:28px;background:var(--soft);border:1px solid var(--line);border-top:3px solid var(--bright)}.detail-number{display:block;margin-bottom:25px;color:var(--blue);font-size:.71rem;font-weight:800;letter-spacing:.16em}.detail-card h3{font-size:1.22rem;margin-bottom:11px}.detail-card p{color:#5d6d82;font-size:.9rem;line-height:1.72;margin:0}
+.service-steps{list-style:none;margin:32px 0 0;padding:0;border-top:1px solid var(--line)}.service-steps li{display:grid;grid-template-columns:50px 1fr;gap:18px;padding:24px 0;border-bottom:1px solid var(--line)}.service-steps li>span{color:var(--blue);font-size:.75rem;font-weight:800;letter-spacing:.12em}.service-steps h3{font-size:1.13rem;margin-bottom:6px}.service-steps p{color:#5d6d82;font-size:.94rem;line-height:1.72;margin:0}
+.service-prep{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px 32px;list-style:none;padding:0;margin:30px 0}.service-prep li{position:relative;padding-left:19px;font-weight:700;font-size:.92rem;color:#2a4664}.service-prep li:before{content:'';position:absolute;left:0;top:.65em;width:7px;height:7px;border-radius:50%;background:var(--bright)}
+.service-copy .service-note{max-width:none;padding:20px 24px;margin-top:31px;background:#eaf4fb;border-left:3px solid var(--bright);color:#31516f;font-size:.9rem;line-height:1.7}
+.service-cta{background:linear-gradient(125deg,#063d87,#052658);color:#fff;padding:75px 0}.service-cta-inner{display:flex;align-items:center;justify-content:space-between;gap:60px}.service-cta h2{font-size:clamp(2.3rem,4vw,4rem);margin-bottom:16px}.service-cta p:not(.eyebrow){max-width:620px;color:#d9eaf6;margin-bottom:0}.service-cta-actions{display:flex;flex-direction:column;align-items:flex-start;gap:22px;flex:0 0 auto}.service-cta-actions .button{white-space:nowrap}
+.related-services h2{font-size:clamp(2.2rem,3.6vw,3.7rem);margin-bottom:34px}.related-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:15px}.related-grid a{display:flex;justify-content:space-between;gap:20px;min-height:125px;padding:27px;border:1px solid var(--line);border-top:3px solid var(--bright);font-family:Manrope,'DM Sans',Arial,sans-serif;font-weight:800;line-height:1.4;transition:box-shadow .2s,transform .2s}.related-grid a:hover{transform:translateY(-3px);box-shadow:0 14px 30px rgba(10,49,94,.1)}.related-grid span{color:var(--blue)}
+@media(max-width:900px){.service-layout{grid-template-columns:1fr}.service-aside{position:static;display:none}.service-copy{scroll-margin-top:95px}.service-cta-inner{align-items:flex-start;flex-direction:column;gap:30px}.related-grid{grid-template-columns:1fr}}
+@media(max-width:600px){.service-hero{min-height:0}.service-hero-inner{padding-top:26px;padding-bottom:66px}.breadcrumbs{margin-bottom:55px}.service-hero h1{font-size:clamp(2.6rem,10vw,3.5rem)}.service-body{padding-top:70px}.service-copy{padding-bottom:56px;margin-bottom:56px}.detail-grid,.service-prep{grid-template-columns:1fr}.detail-card{min-height:0}.service-cta{padding:65px 0}.service-cta-actions{width:100%}.related-grid a{min-height:100px}}
+
+.service-card h3 a:hover{text-decoration:underline;text-underline-offset:4px}.service-link{display:inline-flex;align-items:center;gap:15px;align-self:flex-start;margin-top:23px;color:var(--blue);font-size:.88rem;font-weight:800}.service-link:hover{text-decoration:underline;text-underline-offset:5px}.service-card-dark .service-link{color:#fff}
+.service-copy .official-guidance{margin-top:19px;font-size:.85rem;line-height:1.7}.official-guidance a{color:var(--blue);font-weight:700;text-decoration:underline;text-underline-offset:3px}

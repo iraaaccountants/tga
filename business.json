@@ -13,9 +13,9 @@
     "emails": ["kintu.gandhi@tga-uae.com", "Vyom.acharya@tga-uae.com"]
   },
   "services": [
-    {"name": "UAE business setup and PRO services", "url": "https://www.tga-uae.com/#services"},
-    {"name": "Accounting, bookkeeping and audit support", "url": "https://www.tga-uae.com/#services"},
-    {"name": "UAE tax advisory and transfer pricing", "url": "https://www.tga-uae.com/#services"},
-    {"name": "AML compliance assistance", "url": "https://www.tga-uae.com/#services"}
+    {"name": "UAE business setup and PRO services", "url": "https://www.tga-uae.com/business-setup-pro.html"},
+    {"name": "Accounting, bookkeeping and audit support", "url": "https://www.tga-uae.com/accounting-bookkeeping-audit.html"},
+    {"name": "UAE tax advisory and transfer pricing", "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing.html"},
+    {"name": "AML compliance assistance", "url": "https://www.tga-uae.com/aml-compliance.html"}
   ]
 }

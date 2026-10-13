@@ -1,23 +1,24 @@
 # TGA Website
 
-One-page corporate website for TGA Manangement Consultancy LLC.
+Corporate website for TGA Manangement Consultancy LLC, with a homepage and four detailed service pages.
 
 ## Preview locally
 
-Open `index.html` in a browser. The site uses plain HTML, CSS, and JavaScript, so no build step is required.
+Open `index.html` in a browser. The site uses plain HTML, CSS, and JavaScript, so no build step is required. Service cards link to their own HTML pages.
 
 ## Files
 
-- `index.html` — page content and structure
+- `index.html` — homepage content and structure
+- `business-setup-pro.html`, `accounting-bookkeeping-audit.html`, `tax-advisory-transfer-pricing.html`, `aml-compliance.html` — individual service pages
 - `styles.css` — layout, responsive styling, and blue theme
 - `script.js` — mobile menu and sticky header behavior
 - `assets/` — WebP versions of the logo, photography, client logos, and jurisdiction logos supplied in the company profile
-- `robots.txt` and `sitemap.xml` — crawler guidance and the single canonical page with its main images
+- `robots.txt` and `sitemap.xml` — crawler guidance for all five canonical pages and the main homepage images
 - `llms.txt` and `index.md` — concise AI-readable guide and Markdown version of the page content; `llm.txt` points to the standard `llms.txt` filename
 - `business.json` and `openapi.json` — read-only public company profile and its OpenAPI 3.1 description
 
 ## Search and social metadata
 
-The page title, description, canonical URL, Open Graph tags, social preview image, and LocalBusiness, WebSite and WebPage structured data are set for `https://www.tga-uae.com/`. The sitemap lists the homepage once because the site has one HTML page; section anchors are not separate pages. The OpenAPI file describes only the static `business.json` resource and does not imply a transactional API. Publish the site files at the preferred `www` address and redirect the non-`www` version to it before relying on those URLs. The GitHub repository alone does not serve the website at that domain.
+Each page has its own title, description, canonical URL, social metadata and structured data for `https://www.tga-uae.com/`. The sitemap lists the homepage and four service pages; section anchors remain part of the homepage. The OpenAPI file describes only the static `business.json` resource and does not imply a transactional API. Publish the site files at the preferred `www` address and redirect the non-`www` version to it before relying on those URLs. The GitHub repository alone does not serve the website at that domain.
 
 Contact details and company claims should be reviewed before a public launch.
