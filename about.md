@@ -15,3 +15,9 @@ TGA supports companies in Dubai and across the UAE with business structure and s
 - Vyom Acharya — Partner; Vyom.acharya@tga-uae.com
 
 [Contact TGA](https://www.tga-uae.com/contact.html) to discuss a business matter.
+
+## Experience, mission and vision
+
+TGA's supplied company profile states more than five years of experience in the UAE market. Its mission is to provide professional advice and practical support that adds value for clients. Its vision is to offer financial and business solutions that improve business processes and support commercial goals.
+
+The current office address supplied by TGA is Office 105, Al Jawhara Building, Mankhool, Dubai, UAE. Contact details in the original profile have been superseded by the details TGA supplied for this website.

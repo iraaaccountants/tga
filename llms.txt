@@ -9,6 +9,7 @@ The official website is https://www.tga-uae.com/. The company is based at Office
 - [Website overview](https://www.tga-uae.com/index.md): Plain-language summary of services, team and contact details.
 - [About TGA and our team](https://www.tga-uae.com/about.md): Company overview and TGA partners.
 - [Contact TGA](https://www.tga-uae.com/contact.md): Dubai office, telephone, WhatsApp and email details.
+- [Frequently asked questions](https://www.tga-uae.com/faq.md): Practical answers about starting work with TGA and its service areas.
 - [Services directory](https://www.tga-uae.com/services.md): Four categories and 14 individual service pages, including VAT and Corporate Tax filing support.
 - [Company profile data](https://www.tga-uae.com/business.json): Read-only JSON record of the same public information.
 - [OpenAPI description](https://www.tga-uae.com/openapi.json): Machine-readable description of the company profile JSON resource.
@@ -19,6 +20,7 @@ The official website is https://www.tga-uae.com/. The company is based at Office
 - [Services landing page](https://www.tga-uae.com/services.html): Browse all four categories and their subservices.
 - [Our Team](https://www.tga-uae.com/about.html#team): Kintu Gandhi and Vyom Acharya.
 - [Contact](https://www.tga-uae.com/contact.html): Dubai office, telephone numbers and email addresses.
+- [FAQs](https://www.tga-uae.com/faq.html): Common questions, linked service details and relevant authority guidance.
 
 ## Service details
 

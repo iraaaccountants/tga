@@ -224,4 +224,41 @@ body.menu-open .whatsapp-float{visibility:hidden}
 @media(max-width:1000px){.company-capability-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.contact-methods{grid-template-columns:1fr}.contact-methods article{min-height:0}.contact-methods p{min-height:0}}
 @media(max-width:760px){.company-intro-grid,.company-approach-grid,.contact-visit-grid{grid-template-columns:1fr;gap:30px}.company-intro-grid>div:last-child{padding-top:0}.company-end-grid{align-items:flex-start;flex-direction:column}.company-hero .breadcrumbs{margin-bottom:48px}}
 @media(max-width:520px){.company-capability-grid{grid-template-columns:1fr}.company-capability-grid>a{min-height:0}.contact-methods article{padding:27px}.contact-visit aside{padding:27px}}
+
+/* Sourced company facts and practical FAQs. */
+.services-followups{display:flex;flex-wrap:wrap;gap:14px 28px}
+.company-evidence{background:#fff}
+.company-evidence h2{max-width:780px;margin-bottom:38px}
+.company-facts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.company-facts>div{display:flex;flex-direction:column;gap:18px;min-height:190px;padding:28px;background:var(--soft);border-top:3px solid var(--bright)}
+.company-facts strong{color:var(--blue);font-family:Manrope,'DM Sans',Arial,sans-serif;font-size:clamp(1.5rem,2.2vw,2.25rem);line-height:1.2}
+.company-facts span{color:#52647d;font-size:.94rem;line-height:1.72}
+.company-facts a{color:var(--blue);font-weight:800}
+.company-purpose{background:#eaf4fb}
+.company-purpose h2{max-width:800px;margin-bottom:38px}
+.company-purpose-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.company-purpose-grid article{padding:34px;background:#fff;border-top:3px solid var(--bright)}
+.company-purpose-grid span{color:var(--blue);font-size:.72rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase}
+.company-purpose-grid h3{font-size:1.45rem;margin:26px 0 13px}
+.company-purpose-grid p{max-width:520px;color:var(--muted);line-height:1.78;margin:0}
+.faq-hero{min-height:430px}
+.faq-intro-grid{display:grid;grid-template-columns:1fr .72fr;gap:clamp(45px,8vw,120px);align-items:end}
+.faq-intro h2{margin:0}
+.faq-intro p{color:var(--muted);line-height:1.85;margin:0}
+.faq-intro a,.faq-answer a{color:var(--blue);font-weight:800;text-decoration:underline;text-underline-offset:3px}
+.faq-group{padding:72px 0;border-top:1px solid var(--line);scroll-margin-top:100px}
+.faq-group:nth-of-type(even){background:var(--soft)}
+.faq-group-grid{display:grid;grid-template-columns:.62fr 1fr;gap:clamp(45px,9vw,130px)}
+.faq-group-number{display:block;margin-bottom:28px;color:#91a6be;font-size:.72rem;font-weight:800;letter-spacing:.16em}
+.faq-group h2{max-width:420px;font-size:clamp(2.1rem,3.3vw,3.25rem)}
+.faq-list{border-top:1px solid var(--line)}
+.faq-item{border-bottom:1px solid var(--line)}
+.faq-item summary{display:flex;align-items:center;justify-content:space-between;gap:18px;padding:22px 4px;color:var(--ink);font-family:Manrope,'DM Sans',Arial,sans-serif;font-size:1.05rem;font-weight:800;line-height:1.45;list-style:none;cursor:pointer}
+.faq-item summary::-webkit-details-marker{display:none}
+.faq-item summary span{display:grid;place-items:center;flex:0 0 30px;width:30px;height:30px;color:var(--blue);font-family:'DM Sans',Arial,sans-serif;font-size:1.45rem;font-weight:400;transition:transform .2s}
+.faq-item[open] summary span{transform:rotate(45deg)}
+.faq-answer{padding:0 40px 22px 4px}
+.faq-answer p{color:#52647d;line-height:1.82;margin:0}
+@media(max-width:760px){.company-facts,.faq-intro-grid,.faq-group-grid{grid-template-columns:1fr;gap:22px}.company-purpose-grid{grid-template-columns:1fr}.faq-group{padding:58px 0}.faq-group-number{margin-bottom:14px}.faq-group h2{margin-bottom:5px}}
+@media(max-width:520px){.faq-item summary{font-size:.96rem}.faq-answer{padding-right:10px}.company-facts>div{min-height:0}}
 .detail-card h3 a:hover{text-decoration:underline;text-underline-offset:4px}.detail-card-link{display:inline-flex;align-items:center;gap:12px;margin-top:20px;color:var(--blue);font-size:.82rem;font-weight:800}.detail-card-link:hover{text-decoration:underline;text-underline-offset:4px}

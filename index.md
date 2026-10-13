@@ -3,6 +3,7 @@
 TGA is a Dubai-based consultancy providing business setup, financial and compliance support for companies operating in the United Arab Emirates. Its website is https://www.tga-uae.com/.
 
 [About TGA and our team](https://www.tga-uae.com/about.html) explains the company's approach and introduces its partners.
+[Frequently asked questions](https://www.tga-uae.com/faq.html) cover common business setup, accounting, tax and compliance enquiries.
 
 ## Services
 
