@@ -85,3 +85,9 @@ html{scroll-padding-top:104px}
 .site-header.is-scrolled .sticky-brand img{width:88px;height:auto}
 .sticky-brand span{font-family:Manrope,'DM Sans',Arial,sans-serif;font-size:.66rem;font-weight:800;letter-spacing:.15em;color:var(--blue)}
 @media(max-width:760px){.site-header.is-scrolled .sticky-brand{gap:9px}.site-header.is-scrolled .sticky-brand img{width:75px}.sticky-brand span{font-size:.56rem;letter-spacing:.1em}}
+
+.whatsapp-float{position:fixed;right:max(20px,env(safe-area-inset-right));bottom:max(20px,env(safe-area-inset-bottom));z-index:30;display:grid;place-items:center;width:62px;height:62px;border:2px solid #fff;border-radius:50%;background:#25d366;color:#fff;box-shadow:0 8px 28px rgba(0,67,42,.28);transition:transform .2s ease,box-shadow .2s ease}
+.whatsapp-float:hover{transform:translateY(-4px);box-shadow:0 12px 32px rgba(0,67,42,.36)}
+.whatsapp-float svg{width:34px;height:34px}
+body.menu-open .whatsapp-float{visibility:hidden}
+@media(max-width:520px){.whatsapp-float{width:56px;height:56px;right:max(16px,env(safe-area-inset-right));bottom:max(16px,env(safe-area-inset-bottom))}.whatsapp-float svg{width:31px;height:31px}}

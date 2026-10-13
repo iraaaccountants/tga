@@ -17,7 +17,7 @@ TGA is a Dubai-based consultancy providing business setup, financial and complia
 ## Contact
 
 - Address: Office 105, Al Jawhara Building, Mankhool, Dubai, UAE.
-- Telephone: +971 54 795 5588; +971 56 921 0222.
-- Email: Vyom.acharya@tga-uae.com; kintu.gandhi@tga-uae.com.
+- Telephone: +971 56 921 0222 (WhatsApp); +971 54 795 5588.
+- Email: kintu.gandhi@tga-uae.com; Vyom.acharya@tga-uae.com.
 
 For current service scope and advice about a specific matter, contact TGA directly. Source: https://www.tga-uae.com/.
