@@ -2,7 +2,7 @@
 
 TGA is a Dubai-based consultancy providing business setup, financial and compliance support for companies operating in the United Arab Emirates. Its website is https://www.tga-uae.com/.
 
-[About TGA and our team](https://www.tga-uae.com/about.html) explains the company's approach and introduces its partners.
+[About TGA and our team](https://www.tga-uae.com/about.html) explains the company's approach and introduces its leadership, tax, accounting and business setup team.
 [Frequently asked questions](https://www.tga-uae.com/faq.html) cover common business setup, accounting, tax and compliance enquiries.
 
 ## Services
@@ -25,6 +25,12 @@ Browse the [complete services and subservices directory](https://www.tga-uae.com
 
 - Kintu Gandhi, Managing Partner.
 - Vyom Acharya, Partner.
+- Shivam Gupta, Account Manager (Tax).
+- Adarsh Suryavanshi, Tax Consultant.
+- Rahul Singh, Senior Accountant.
+- Reshu Pal, Accountant.
+- Ritik Singh, Account Executive.
+- Michelle Delfin, Business Setup Consultant.
 
 ## Contact
 
