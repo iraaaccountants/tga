@@ -142,4 +142,36 @@ body.menu-open .whatsapp-float{visibility:hidden}
 .subservice-prep-grid{display:grid;grid-template-columns:1fr minmax(300px,.65fr);gap:clamp(55px,8vw,125px)}.subservice-prep h2{max-width:670px}.subservice-prep aside{align-self:start;padding:32px;background:#eaf4fb;border-top:3px solid var(--bright)}.subservice-prep aside h3{font-size:1.45rem;margin-bottom:25px}.subservice-prep .service-prep{display:grid;grid-template-columns:1fr;margin:0 0 28px;gap:13px}.subservice-prep .service-note{padding:18px 0 0;margin:0;border-top:1px solid #cddfeb;color:#3b5770;font-size:.88rem;line-height:1.7}.subservice-prep .official-guidance{margin:18px 0 0;font-size:.82rem;line-height:1.7}.subservice-related{grid-template-columns:repeat(3,minmax(0,1fr))}
 @media(max-width:900px){.subservice-intro-grid,.subservice-prep-grid{grid-template-columns:1fr;gap:27px}.subservice-intro-copy{padding-top:0}.subservice-focus-grid{grid-template-columns:1fr}.subservice-focus-card{min-height:0}.subservice-prep aside{margin-top:22px}}
 @media(max-width:600px){.subservice-hero .breadcrumbs{margin-bottom:55px}.subservice-focus h2{margin-bottom:25px}.subservice-focus-card{padding:27px}.subservice-focus-card>span{margin-bottom:24px}.subservice-prep aside{padding:26px}.subservice-related{grid-template-columns:1fr}}
+
+/* Direct service links on the homepage and a shared services dropdown. */
+.service-card li a{color:inherit;text-decoration:underline;text-decoration-color:transparent;text-underline-offset:4px;transition:color .2s,text-decoration-color .2s}
+.service-card li a:hover,.service-card li a:focus-visible{color:var(--blue);text-decoration-color:var(--bright)}
+.service-card-dark li a:hover,.service-card-dark li a:focus-visible{color:#fff;text-decoration-color:#fff}
+.nav-wrap{position:relative}
+.nav-services-trigger{display:flex;align-items:center;gap:3px}
+.nav-services-link{display:inline-block;padding:12px 0}
+.nav-services-link:hover,.nav-services-link[aria-current=page]{color:var(--blue)}
+.nav-services-toggle{display:grid;place-items:center;width:26px;height:32px;padding:4px;border:0;background:transparent;color:var(--blue)}
+.nav-services-toggle svg{width:15px;height:15px;transition:transform .2s}
+.nav-services-toggle[aria-expanded=true] svg{transform:rotate(180deg)}
+.nav-services-panel{display:none;position:absolute;top:calc(100% - 1px);right:0;width:min(100%,1050px);padding:27px 32px 33px;background:#fff;border:1px solid var(--line);border-top:3px solid var(--bright);box-shadow:0 25px 50px rgba(5,32,70,.18);z-index:30}
+.nav-services.open .nav-services-panel{display:block}
+.nav-services-all{display:inline-flex;align-items:center;gap:12px;color:var(--blue);font-size:.84rem;font-weight:800;margin-bottom:23px}
+.nav-services-all:hover,.nav-services-group a:hover{text-decoration:underline;text-underline-offset:4px}
+.nav-services-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px}
+.nav-services-category{display:block;min-height:44px;padding-bottom:12px;border-bottom:1px solid var(--line);color:var(--navy);font-family:Manrope,'DM Sans',Arial,sans-serif;font-size:.87rem;font-weight:800;line-height:1.35}
+.nav-services-group ul{list-style:none;margin:11px 0 0;padding:0}
+.nav-services-group li a{display:block;padding:6px 0;color:#425774;font-size:.8rem;font-weight:600;line-height:1.45}
+@media(max-width:760px){
+  .primary-nav{max-height:calc(100dvh - 80px);overflow-y:auto;overscroll-behavior:contain}
+  .nav-services-trigger{display:flex;justify-content:space-between;gap:0}
+  .nav-services-link{flex:1;padding:13px 8px}
+  .nav-services-toggle{width:48px;height:46px;border-left:1px solid var(--line)}
+  .nav-services-panel{position:static;width:100%;padding:14px 12px 19px;border:0;border-top:1px solid var(--line);box-shadow:none;background:var(--soft)}
+  .nav-services-all{padding:6px 0;margin-bottom:8px}
+  .nav-services-grid{grid-template-columns:1fr;gap:16px}
+  .nav-services-category{min-height:0;padding:6px 0 8px}
+  .nav-services-group ul{margin-top:5px}
+  .primary-nav .nav-services-group li a{padding:7px 4px;font-size:.85rem}
+}
 .detail-card h3 a:hover{text-decoration:underline;text-underline-offset:4px}.detail-card-link{display:inline-flex;align-items:center;gap:12px;margin-top:20px;color:var(--blue);font-size:.82rem;font-weight:800}.detail-card-link:hover{text-decoration:underline;text-underline-offset:4px}
