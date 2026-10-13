@@ -20,7 +20,7 @@ TGA supports companies in Dubai and across the UAE with business structure and s
 - Ritik Singh — Account Executive, Account Division
 - Shivam Tandon — Senior Accountant
 - Michelle Delfin — Business Setup Consultant, CSP Division
-- Sahaj Kumar — Digital Marketing Executive
+- Sahaj Pushalkar — Digital Marketing Executive
 
 [Contact TGA](https://www.tga-uae.com/contact.html) to discuss a business matter.
 

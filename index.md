@@ -32,7 +32,7 @@ Browse the [complete services and subservices directory](https://www.tga-uae.com
 - Ritik Singh, Account Executive.
 - Shivam Tandon, Senior Accountant.
 - Michelle Delfin, Business Setup Consultant.
-- Sahaj Kumar, Digital Marketing Executive.
+- Sahaj Pushalkar, Digital Marketing Executive.
 
 ## Contact
 
