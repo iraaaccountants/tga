@@ -30,4 +30,4 @@ TGA lists liquidation process assistance among its services. We can help you map
 
 Closure requirements differ by legal form, authority and the company’s outstanding obligations. The relevant authority makes the final closure decision.
 
-Contact: [TGA website](https://www.tga-uae.com/#contact), kintu.gandhi@tga-uae.com, or +971 56 921 0222.
+Contact: [TGA website](https://www.tga-uae.com/#contact), kintu@tga-uae.com, or +971 56 921 0222.

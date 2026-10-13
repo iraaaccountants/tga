@@ -30,7 +30,7 @@ Browse the [complete services and subservices directory](https://www.tga-uae.com
 
 - Address: Office 105, Al Jawhara Building, Mankhool, Dubai, UAE.
 - Telephone: +971 56 921 0222 (WhatsApp); +971 54 795 5588.
-- Email: kintu.gandhi@tga-uae.com; Vyom.acharya@tga-uae.com.
+- Email: kintu@tga-uae.com; vyom@tga-uae.com.
 
 For current service scope and advice about a specific matter, contact TGA directly. Source: https://www.tga-uae.com/.
 

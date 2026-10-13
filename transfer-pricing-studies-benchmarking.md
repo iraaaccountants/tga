@@ -34,4 +34,4 @@ Documentation requirements and the appropriate pricing analysis depend on the ta
 
 - [Transfer Pricing Guide (FTA)](https://tax.gov.ae/Datafolder/Files/Pdf/2023/Transfer%20Pricing%20Guide%20-%20EN%20-%2023%2010%202023.pdf)
 
-Contact: [TGA website](https://www.tga-uae.com/#contact), kintu.gandhi@tga-uae.com, or +971 56 921 0222.
+Contact: [TGA website](https://www.tga-uae.com/#contact), kintu@tga-uae.com, or +971 56 921 0222.

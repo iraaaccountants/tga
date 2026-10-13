@@ -34,4 +34,4 @@ Golden Residency criteria and decisions are controlled by the UAE authorities. N
 
 - [Golden Residency guidance (ICP)](https://icp.gov.ae/en/services/uae-golden-residency/)
 
-Contact: [TGA website](https://www.tga-uae.com/#contact), kintu.gandhi@tga-uae.com, or +971 56 921 0222.
+Contact: [TGA website](https://www.tga-uae.com/#contact), kintu@tga-uae.com, or +971 56 921 0222.

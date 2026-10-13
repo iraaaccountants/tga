@@ -34,4 +34,4 @@ Whether a particular AML obligation applies depends on the business and current 
 
 - [UAE AML guidance (Ministry of Economy and Tourism)](https://www.moet.gov.ae/en/aml3)
 
-Contact: [TGA website](https://www.tga-uae.com/#contact), kintu.gandhi@tga-uae.com, or +971 56 921 0222.
+Contact: [TGA website](https://www.tga-uae.com/#contact), kintu@tga-uae.com, or +971 56 921 0222.

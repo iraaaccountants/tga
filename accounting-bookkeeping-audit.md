@@ -29,4 +29,4 @@ TGA offers accounting and bookkeeping support alongside audit and assurance assi
 
 The exact scope of accounting, audit assistance or IFRS work depends on the condition of the records and the purpose of the engagement.
 
-Contact: [TGA website](https://www.tga-uae.com/#contact) or email kintu.gandhi@tga-uae.com.
+Contact: [TGA website](https://www.tga-uae.com/#contact) or email kintu@tga-uae.com.

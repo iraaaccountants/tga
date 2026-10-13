@@ -34,4 +34,4 @@ The applicable registration or filing rules depend on the tax type, taxpayer and
 
 - [Federal Tax Authority services](https://tax.gov.ae/en/services.aspx)
 
-Contact: [TGA website](https://www.tga-uae.com/#contact), kintu.gandhi@tga-uae.com, or +971 56 921 0222.
+Contact: [TGA website](https://www.tga-uae.com/#contact), kintu@tga-uae.com, or +971 56 921 0222.

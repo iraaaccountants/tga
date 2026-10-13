@@ -35,4 +35,4 @@ VAT registration criteria and return obligations depend on current FTA rules and
 - [VAT registration service (FTA)](https://www.tax.gov.ae/en/services/vat.registration.aspx)
 - [VAT guidance (FTA)](https://tax.gov.ae/en/taxes/Vat/vat.topics.aspx)
 
-Contact: [TGA website](https://www.tga-uae.com/#contact), kintu.gandhi@tga-uae.com, or +971 56 921 0222.
+Contact: [TGA website](https://www.tga-uae.com/#contact), kintu@tga-uae.com, or +971 56 921 0222.

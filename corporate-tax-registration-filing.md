@@ -35,4 +35,4 @@ Corporate Tax obligations, timelines and treatment depend on current FTA rules a
 - [Corporate Tax registration service (FTA)](https://www.tax.gov.ae/en/services/corporate.tax.registration.aspx)
 - [Corporate Tax returns (FTA)](https://tax.gov.ae/en/content/corporate.tax.return.aspx)
 
-Contact: [TGA website](https://www.tga-uae.com/#contact), kintu.gandhi@tga-uae.com, or +971 56 921 0222.
+Contact: [TGA website](https://www.tga-uae.com/#contact), kintu@tga-uae.com, or +971 56 921 0222.

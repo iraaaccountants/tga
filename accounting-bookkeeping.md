@@ -30,4 +30,4 @@ TGA provides accounting and bookkeeping support for UAE businesses. We begin wit
 
 The scope depends on record quality, volume and the reporting outputs required. Historical clean-up can be discussed separately.
 
-Contact: [TGA website](https://www.tga-uae.com/#contact), kintu.gandhi@tga-uae.com, or +971 56 921 0222.
+Contact: [TGA website](https://www.tga-uae.com/#contact), kintu@tga-uae.com, or +971 56 921 0222.

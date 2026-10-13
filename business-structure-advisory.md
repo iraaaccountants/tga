@@ -30,4 +30,4 @@ TGA’s business structure advisory starts with those facts. We help organise th
 
 Licensing and ownership requirements depend on the selected activity and authority. A structure should be confirmed against current requirements before an application is filed.
 
-Contact: [TGA website](https://www.tga-uae.com/#contact), kintu.gandhi@tga-uae.com, or +971 56 921 0222.
+Contact: [TGA website](https://www.tga-uae.com/#contact), kintu@tga-uae.com, or +971 56 921 0222.

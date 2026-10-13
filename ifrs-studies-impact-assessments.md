@@ -34,4 +34,4 @@ IFRS treatment depends on the complete facts and applicable standards. Any final
 
 - [Issued IFRS Accounting Standards (IFRS Foundation)](https://www.ifrs.org/issued-standards/list-of-standards/)
 
-Contact: [TGA website](https://www.tga-uae.com/#contact), kintu.gandhi@tga-uae.com, or +971 56 921 0222.
+Contact: [TGA website](https://www.tga-uae.com/#contact), kintu@tga-uae.com, or +971 56 921 0222.

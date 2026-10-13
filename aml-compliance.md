@@ -29,7 +29,7 @@ TGA includes AML compliance assistance in its service profile. We begin by under
 
 Whether a specific AML obligation applies, and what measures are required, depends on the business and current rules. The scope of TGA’s assistance is agreed for each engagement.
 
-Contact: [TGA website](https://www.tga-uae.com/#contact) or email kintu.gandhi@tga-uae.com.
+Contact: [TGA website](https://www.tga-uae.com/#contact) or email kintu@tga-uae.com.
 
 ## Official guidance
 

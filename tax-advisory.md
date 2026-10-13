@@ -34,4 +34,4 @@ Tax outcomes depend on current law and complete facts. Advice should be reviewed
 
 - [Federal Tax Authority guidance](https://tax.gov.ae/en/)
 
-Contact: [TGA website](https://www.tga-uae.com/#contact), kintu.gandhi@tga-uae.com, or +971 56 921 0222.
+Contact: [TGA website](https://www.tga-uae.com/#contact), kintu@tga-uae.com, or +971 56 921 0222.

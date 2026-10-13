@@ -30,4 +30,4 @@ TGA offers audit and assurance assistance. We support the company side of the en
 
 This service is assistance to management. It does not represent an independent audit opinion or appointment as statutory auditor.
 
-Contact: [TGA website](https://www.tga-uae.com/#contact), kintu.gandhi@tga-uae.com, or +971 56 921 0222.
+Contact: [TGA website](https://www.tga-uae.com/#contact), kintu@tga-uae.com, or +971 56 921 0222.

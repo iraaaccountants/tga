@@ -29,7 +29,7 @@ TGA combines business structure advice with company setup and PRO support. We ca
 
 Licensing, visa and liquidation requirements vary by authority and individual circumstances. TGA can help you understand the process, but approvals are decided by the relevant authority.
 
-Contact: [TGA website](https://www.tga-uae.com/#contact) or email kintu.gandhi@tga-uae.com.
+Contact: [TGA website](https://www.tga-uae.com/#contact) or email kintu@tga-uae.com.
 
 ## Official guidance
 

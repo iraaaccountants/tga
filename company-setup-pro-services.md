@@ -30,4 +30,4 @@ TGA supports company setup and PRO processes in the UAE. We help gather the rele
 
 The authority determines documentation, processing and approval requirements. TGA’s role is scoped to the assistance agreed for your setup.
 
-Contact: [TGA website](https://www.tga-uae.com/#contact), kintu.gandhi@tga-uae.com, or +971 56 921 0222.
+Contact: [TGA website](https://www.tga-uae.com/#contact), kintu@tga-uae.com, or +971 56 921 0222.

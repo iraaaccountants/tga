@@ -46,4 +46,4 @@ A practical starting point for reviewing anti-money laundering questions relevan
 
 - [AML compliance assistance](https://www.tga-uae.com/aml-compliance-assistance.md): Discuss current practices, available records and the areas needing attention.
 
-Contact: kintu.gandhi@tga-uae.com or +971 56 921 0222.
+Contact: kintu@tga-uae.com or +971 56 921 0222.

@@ -31,7 +31,7 @@ TGA supports tax registration and annual filing, VAT and Corporate Tax registrat
 
 Tax treatment, filing obligations and transfer pricing documentation depend on current rules and the facts of each business. TGA will confirm the engagement scope before work begins.
 
-Contact: [TGA website](https://www.tga-uae.com/#contact) or email kintu.gandhi@tga-uae.com.
+Contact: [TGA website](https://www.tga-uae.com/#contact) or email kintu@tga-uae.com.
 
 ## Official guidance
 

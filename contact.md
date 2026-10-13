@@ -2,8 +2,8 @@
 
 - Primary telephone and WhatsApp: +971 56 921 0222
 - Additional telephone: +971 54 795 5588
-- Primary email: kintu.gandhi@tga-uae.com
-- Additional email: Vyom.acharya@tga-uae.com
+- Primary email: kintu@tga-uae.com
+- Additional email: vyom@tga-uae.com
 - Office: Office 105, Al Jawhara Building, Mankhool, Dubai, UAE
 
 Describe the business question, your current position and any timing considerations when you get in touch. [Browse all services](https://www.tga-uae.com/services.html).

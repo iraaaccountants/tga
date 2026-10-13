@@ -11,8 +11,8 @@ TGA supports companies in Dubai and across the UAE with business structure and s
 
 ## Our team
 
-- Kintu Gandhi — Managing Partner; kintu.gandhi@tga-uae.com
-- Vyom Acharya — Partner; Vyom.acharya@tga-uae.com
+- Kintu Gandhi — Managing Partner; kintu@tga-uae.com
+- Vyom Acharya — Partner; vyom@tga-uae.com
 
 [Contact TGA](https://www.tga-uae.com/contact.html) to discuss a business matter.
 
