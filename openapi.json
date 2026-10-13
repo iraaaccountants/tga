@@ -31,12 +31,13 @@
     "schemas": {
       "BusinessProfile": {
         "type": "object",
-        "required": ["name", "shortName", "description", "website", "address", "contact", "services"],
+        "required": ["name", "shortName", "description", "website", "servicesPage", "address", "contact", "services"],
         "properties": {
           "name": {"type": "string"},
           "shortName": {"type": "string"},
           "description": {"type": "string"},
           "website": {"type": "string", "format": "uri"},
+          "servicesPage": {"type": "string", "format": "uri"},
           "address": {"$ref": "#/components/schemas/Address"},
           "contact": {"$ref": "#/components/schemas/Contact"},
           "services": {"type": "array", "items": {"$ref": "#/components/schemas/Service"}}
@@ -60,6 +61,15 @@
         }
       },
       "Service": {
+        "type": "object",
+        "required": ["name", "url", "subservices"],
+        "properties": {
+          "name": {"type": "string"},
+          "url": {"type": "string", "format": "uri"},
+          "subservices": {"type": "array", "items": {"$ref": "#/components/schemas/Subservice"}}
+        }
+      },
+      "Subservice": {
         "type": "object",
         "required": ["name", "url"],
         "properties": {

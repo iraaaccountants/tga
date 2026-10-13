@@ -7,13 +7,14 @@ The official website is https://www.tga-uae.com/. The company is based at Office
 ## Company information
 
 - [Website overview](https://www.tga-uae.com/index.md): Plain-language summary of services, leadership and contact details.
+- [Services directory](https://www.tga-uae.com/services.md): All four service categories and their subservices, with links to detailed pages.
 - [Company profile data](https://www.tga-uae.com/business.json): Read-only JSON record of the same public information.
 - [OpenAPI description](https://www.tga-uae.com/openapi.json): Machine-readable description of the company profile JSON resource.
 
 ## Website sections
 
 - [About TGA](https://www.tga-uae.com/#about): Company overview and approach.
-- [Services overview](https://www.tga-uae.com/#services): Summary of the four service groups.
+- [Services landing page](https://www.tga-uae.com/services.html): Browse all four categories and their subservices.
 - [Leadership](https://www.tga-uae.com/#leadership): Kintu Gandhi and Vyom Acharya.
 - [Contact](https://www.tga-uae.com/#contact): Dubai office, telephone numbers and email addresses.
 
