@@ -6,4 +6,6 @@
 - Additional email: vyom@tga-uae.com
 - Office: Office 105, Al Jawhara Building, Mankhool, Dubai, UAE
 
+The [Contact Us page](https://www.tga-uae.com/contact.html) includes an embedded Google Map for Al Jawhara Building.
+
 Describe the business question, your current position and any timing considerations when you get in touch. [Browse all services](https://www.tga-uae.com/services.html).
