@@ -17,4 +17,4 @@ TGA can help review the existing approach and agree support for the areas that a
 
 Whether a specific obligation applies depends on the business and its regulator. Filing decisions and official submissions remain the responsibility of the reporting entity and its authorised officer.
 
-Contact [TGA](https://www.tga-uae.com/contact.html) to discuss scope.
+Contact [TGA](https://www.tga-uae.com/contact) to discuss scope.

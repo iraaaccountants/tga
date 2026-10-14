@@ -8,18 +8,18 @@ TGA helps organise these decisions and documents, then coordinates the agreed fo
 
 ## What we cover
 
-- [Business structure advisory](business-structure-advisory.html): Review the activity, ownership and operating model before deciding on a setup route.
-- [Company formation planning](company-setup-pro-services.html): Map the chosen route, key decisions and document sequence.
-- [Formation information](company-setup-pro-services.html): Bring together activity, shareholder, management and contact information for the application.
-- [Setup coordination](company-setup-pro-services.html): Track agreed forms, supporting documents and practical next steps.
+- [Business structure advisory](business-structure-advisory): Review the activity, ownership and operating model before deciding on a setup route.
+- [Company formation planning](company-setup-pro-services): Map the chosen route, key decisions and document sequence.
+- [Formation information](company-setup-pro-services): Bring together activity, shareholder, management and contact information for the application.
+- [Setup coordination](company-setup-pro-services): Track agreed forms, supporting documents and practical next steps.
 
-[Contact TGA](contact.html) · [All services](services.html)
+[Contact TGA](contact) · [All services](services)
 
 ## Additional support
 
-- [Business structure advisory](https://www.tga-uae.com/business-structure-advisory.html).
-- [Company formation support](https://www.tga-uae.com/company-setup-pro-services.html).
-- [Mainland & free zone comparison](https://www.tga-uae.com/business-setup.html#jurisdiction-comparison).
-- [Trade name reservation support](https://www.tga-uae.com/business-setup.html#trade-name-reservation).
-- [Licence activity selection](https://www.tga-uae.com/business-setup.html#licence-activity-selection).
-- [Branch setup support](https://www.tga-uae.com/business-setup.html#branch-setup).
+- [Business structure advisory](https://www.tga-uae.com/business-structure-advisory).
+- [Company formation support](https://www.tga-uae.com/company-setup-pro-services).
+- [Mainland & free zone comparison](https://www.tga-uae.com/business-setup#jurisdiction-comparison).
+- [Trade name reservation support](https://www.tga-uae.com/business-setup#trade-name-reservation).
+- [Licence activity selection](https://www.tga-uae.com/business-setup#licence-activity-selection).
+- [Branch setup support](https://www.tga-uae.com/business-setup#branch-setup).

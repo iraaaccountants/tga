@@ -28,4 +28,4 @@ Risk assessments and controls should be proportionate to the entity's actual exp
 
 Official guidance: [Ministry of Economy and Tourism DNFBP guidance](https://www.moet.gov.ae/documents/20121/465917/DNFBP%2BGuidelines%2B-%2BMarch%2B2026.pdf)
 
-Discuss the service with [TGA](https://www.tga-uae.com/contact.html).
+Discuss the service with [TGA](https://www.tga-uae.com/contact).

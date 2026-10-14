@@ -2,7 +2,7 @@
 
 TGA’s Dubai-based team supports clients across leadership, tax, accounting, business setup and digital marketing.
 
-- [Kintu Gandhi](https://www.tga-uae.com/kintu-gandhi.html) — Managing Partner
+- [Kintu Gandhi](https://www.tga-uae.com/kintu-gandhi) — Managing Partner
 - Vyom Acharya — Partner
 - Shivam Gupta — Manager, Tax Division
 - Shivam Tandon — Senior Accountant
@@ -13,4 +13,4 @@ TGA’s Dubai-based team supports clients across leadership, tax, accounting, bu
 - Michelle Delfin — Business Setup Consultant, CSP Division
 - Sahaj Pushalkar — Digital Marketing Executive
 
-[Explore the team page](https://www.tga-uae.com/our-team.html) or [contact TGA](https://www.tga-uae.com/contact.html).
+[Explore the team page](https://www.tga-uae.com/our-team) or [contact TGA](https://www.tga-uae.com/contact).

@@ -28,4 +28,4 @@ Whether registration is required depends on the entity's activities and regulato
 
 Official guidance: [Ministry of Economy and Tourism goAML registration guidance](https://www.moet.gov.ae/web/guest/registering-companies-in-goaml)
 
-Discuss the service with [TGA](https://www.tga-uae.com/contact.html).
+Discuss the service with [TGA](https://www.tga-uae.com/contact).

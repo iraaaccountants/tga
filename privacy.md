@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 13 October 2026. [Read the complete website policy](https://www.tga-uae.com/privacy.html).
+Last updated: 13 October 2026. [Read the complete website policy](https://www.tga-uae.com/privacy).
 
 TGA Manangement Consultancy LLC, Office 105, Al Jawhara Building, Mankhool, Dubai, UAE, is the point of contact for personal information connected with the public website and enquiries. The website has no account registration or on-site enquiry form.
 

@@ -3,7 +3,7 @@
   "shortName": "TGA",
   "description": "Dubai-based consultancy providing UAE business setup, accounting, tax, transfer pricing and compliance support.",
   "website": "https://www.tga-uae.com/",
-  "servicesPage": "https://www.tga-uae.com/services.html",
+  "servicesPage": "https://www.tga-uae.com/services",
   "address": {
     "streetAddress": "Office 105, Al Jawhara Building, Mankhool",
     "city": "Dubai",
@@ -22,394 +22,394 @@
   "services": [
     {
       "name": "Business setup & company changes",
-      "url": "https://www.tga-uae.com/services.html#business-setup",
+      "url": "https://www.tga-uae.com/services#business-setup",
       "subservices": [
         {
           "name": "Business structure advisory",
-          "url": "https://www.tga-uae.com/business-structure-advisory.html"
+          "url": "https://www.tga-uae.com/business-structure-advisory"
         },
         {
           "name": "Company formation planning",
-          "url": "https://www.tga-uae.com/business-setup.html#formation-planning"
+          "url": "https://www.tga-uae.com/business-setup#formation-planning"
         },
         {
           "name": "Formation information",
-          "url": "https://www.tga-uae.com/company-setup-pro-services.html"
+          "url": "https://www.tga-uae.com/company-setup-pro-services"
         },
         {
           "name": "Setup coordination",
-          "url": "https://www.tga-uae.com/business-setup.html#setup-coordination"
+          "url": "https://www.tga-uae.com/business-setup#setup-coordination"
         },
         {
           "name": "Mainland & free zone comparison",
-          "url": "https://www.tga-uae.com/company-licensing.html#jurisdiction-comparison"
+          "url": "https://www.tga-uae.com/company-licensing#jurisdiction-comparison"
         },
         {
           "name": "Trade name reservation support",
-          "url": "https://www.tga-uae.com/company-licensing.html#trade-name-reservation"
+          "url": "https://www.tga-uae.com/company-licensing#trade-name-reservation"
         },
         {
           "name": "Licence activity selection",
-          "url": "https://www.tga-uae.com/company-licensing.html#licence-activity-selection"
+          "url": "https://www.tga-uae.com/company-licensing#licence-activity-selection"
         },
         {
           "name": "Branch setup support",
-          "url": "https://www.tga-uae.com/company-licensing.html#branch-setup"
+          "url": "https://www.tga-uae.com/company-licensing#branch-setup"
         },
         {
           "name": "Trade licence renewal assistance",
-          "url": "https://www.tga-uae.com/company-licensing.html#trade-licence-renewal"
+          "url": "https://www.tga-uae.com/company-licensing#trade-licence-renewal"
         },
         {
           "name": "Trade licence amendments",
-          "url": "https://www.tga-uae.com/company-licensing.html#trade-licence-amendments"
+          "url": "https://www.tga-uae.com/company-licensing#trade-licence-amendments"
         },
         {
           "name": "Corporate document organisation",
-          "url": "https://www.tga-uae.com/company-licensing.html#corporate-document-organisation"
+          "url": "https://www.tga-uae.com/company-licensing#corporate-document-organisation"
         },
         {
           "name": "Company Formation & MOA Coordination",
-          "url": "https://www.tga-uae.com/business-setup.html#company-formation-moa"
+          "url": "https://www.tga-uae.com/business-setup#company-formation-moa"
         },
         {
           "name": "Government Approval Coordination",
-          "url": "https://www.tga-uae.com/company-licensing.html#government-approvals"
+          "url": "https://www.tga-uae.com/company-licensing#government-approvals"
         }
       ]
     },
     {
       "name": "PRO, visas & employee services",
-      "url": "https://www.tga-uae.com/services.html#pro-services",
+      "url": "https://www.tga-uae.com/services#pro-services",
       "subservices": [
         {
           "name": "PRO coordination",
-          "url": "https://www.tga-uae.com/pro-services.html#pro-coordination"
+          "url": "https://www.tga-uae.com/pro-services#pro-coordination"
         },
         {
           "name": "Applications & documents",
-          "url": "https://www.tga-uae.com/pro-services.html#application-documents"
+          "url": "https://www.tga-uae.com/pro-services#application-documents"
         },
         {
           "name": "Golden Visa assistance",
-          "url": "https://www.tga-uae.com/golden-visa-assistance.html"
+          "url": "https://www.tga-uae.com/golden-visa-assistance"
         },
         {
           "name": "Liquidation process assistance",
-          "url": "https://www.tga-uae.com/liquidation-process-assistance.html"
+          "url": "https://www.tga-uae.com/liquidation-process-assistance"
         },
         {
           "name": "Establishment card support",
-          "url": "https://www.tga-uae.com/employee-pro.html#establishment-card"
+          "url": "https://www.tga-uae.com/employee-pro#establishment-card"
         },
         {
           "name": "Employee visa application coordination",
-          "url": "https://www.tga-uae.com/employee-pro.html#employee-visa"
+          "url": "https://www.tga-uae.com/employee-pro#employee-visa"
         },
         {
           "name": "Work permit coordination",
-          "url": "https://www.tga-uae.com/employee-pro.html#work-permit"
+          "url": "https://www.tga-uae.com/employee-pro#work-permit"
         },
         {
           "name": "Visa renewal & cancellation coordination",
-          "url": "https://www.tga-uae.com/employee-pro.html#visa-renewal-cancellation"
+          "url": "https://www.tga-uae.com/employee-pro#visa-renewal-cancellation"
         },
         {
           "name": "Emirates ID & medical appointment coordination",
-          "url": "https://www.tga-uae.com/employee-pro.html#emirates-id-medical"
+          "url": "https://www.tga-uae.com/employee-pro#emirates-id-medical"
         },
         {
           "name": "Document attestation & translation coordination",
-          "url": "https://www.tga-uae.com/employee-pro.html#attestation-translation"
+          "url": "https://www.tga-uae.com/employee-pro#attestation-translation"
         },
         {
           "name": "Residence & Employment Visa Assistance",
-          "url": "https://www.tga-uae.com/visa-immigration.html#residence-employment-visas"
+          "url": "https://www.tga-uae.com/visa-immigration#residence-employment-visas"
         },
         {
           "name": "Family & Dependent Visa Assistance",
-          "url": "https://www.tga-uae.com/visa-immigration.html#family-dependent-visas"
+          "url": "https://www.tga-uae.com/visa-immigration#family-dependent-visas"
         },
         {
           "name": "Emirates ID Application Support",
-          "url": "https://www.tga-uae.com/visa-immigration.html#emirates-id-services"
+          "url": "https://www.tga-uae.com/visa-immigration#emirates-id-services"
         },
         {
           "name": "Visit & Tourist Visa Assistance",
-          "url": "https://www.tga-uae.com/visa-immigration.html#visit-tourist-visas"
+          "url": "https://www.tga-uae.com/visa-immigration#visit-tourist-visas"
         },
         {
           "name": "Work Permit & Contract Assistance",
-          "url": "https://www.tga-uae.com/labour-mohre.html#work-permits-contracts"
+          "url": "https://www.tga-uae.com/labour-mohre#work-permits-contracts"
         },
         {
           "name": "Employee Quota Assistance",
-          "url": "https://www.tga-uae.com/labour-mohre.html#employee-quota"
+          "url": "https://www.tga-uae.com/labour-mohre#employee-quota"
         },
         {
           "name": "Labour Cancellation Paperwork",
-          "url": "https://www.tga-uae.com/labour-mohre.html#labour-cancellations"
+          "url": "https://www.tga-uae.com/labour-mohre#labour-cancellations"
         },
         {
           "name": "WPS File Updates",
-          "url": "https://www.tga-uae.com/payroll-hr.html#wps-support"
+          "url": "https://www.tga-uae.com/payroll-hr#wps-support"
         },
         {
           "name": "Certificate Attestation Assistance",
-          "url": "https://www.tga-uae.com/document-clearing.html#certificate-attestation"
+          "url": "https://www.tga-uae.com/document-clearing#certificate-attestation"
         },
         {
           "name": "Certified Legal Translation Coordination",
-          "url": "https://www.tga-uae.com/document-clearing.html#legal-translation"
+          "url": "https://www.tga-uae.com/document-clearing#legal-translation"
         },
         {
           "name": "Notarisation Coordination",
-          "url": "https://www.tga-uae.com/document-clearing.html#notarisation"
+          "url": "https://www.tga-uae.com/document-clearing#notarisation"
         },
         {
           "name": "POA Registration Assistance",
-          "url": "https://www.tga-uae.com/poa-registration-assistance.html"
+          "url": "https://www.tga-uae.com/poa-registration-assistance"
         },
         {
           "name": "Police Clearance Certificate Assistance",
-          "url": "https://www.tga-uae.com/police-clearance.html#police-clearance-certificate"
+          "url": "https://www.tga-uae.com/police-clearance#police-clearance-certificate"
         }
       ]
     },
     {
       "name": "Accounting, finance & payroll",
-      "url": "https://www.tga-uae.com/services.html#accounting",
+      "url": "https://www.tga-uae.com/services#accounting",
       "subservices": [
         {
           "name": "Accounting & bookkeeping",
-          "url": "https://www.tga-uae.com/accounting-bookkeeping.html"
+          "url": "https://www.tga-uae.com/accounting-bookkeeping"
         },
         {
           "name": "Audit & assurance assistance",
-          "url": "https://www.tga-uae.com/audit-assurance-assistance.html"
+          "url": "https://www.tga-uae.com/audit-assurance-assistance"
         },
         {
           "name": "IFRS studies & impact assessments",
-          "url": "https://www.tga-uae.com/ifrs-studies-impact-assessments.html"
+          "url": "https://www.tga-uae.com/ifrs-studies-impact-assessments"
         },
         {
           "name": "Monthly management reports",
-          "url": "https://www.tga-uae.com/finance-operations.html#monthly-management-reporting"
+          "url": "https://www.tga-uae.com/finance-operations#monthly-management-reporting"
         },
         {
           "name": "Cash flow forecasting",
-          "url": "https://www.tga-uae.com/finance-operations.html#cash-flow-forecasting"
+          "url": "https://www.tga-uae.com/finance-operations#cash-flow-forecasting"
         },
         {
           "name": "Budgeting support",
-          "url": "https://www.tga-uae.com/finance-operations.html#budgeting"
+          "url": "https://www.tga-uae.com/finance-operations#budgeting"
         },
         {
           "name": "Accounts receivable & payable support",
-          "url": "https://www.tga-uae.com/finance-operations.html#receivables-payables"
+          "url": "https://www.tga-uae.com/finance-operations#receivables-payables"
         },
         {
           "name": "Bank reconciliation",
-          "url": "https://www.tga-uae.com/finance-operations.html#bank-reconciliation"
+          "url": "https://www.tga-uae.com/finance-operations#bank-reconciliation"
         },
         {
           "name": "Accounting system setup & migration",
-          "url": "https://www.tga-uae.com/finance-operations.html#accounting-systems"
+          "url": "https://www.tga-uae.com/finance-operations#accounting-systems"
         },
         {
           "name": "Finance process improvement",
-          "url": "https://www.tga-uae.com/finance-operations.html#finance-process-improvement"
+          "url": "https://www.tga-uae.com/finance-operations#finance-process-improvement"
         },
         {
           "name": "Outsourced finance manager / CFO support",
-          "url": "https://www.tga-uae.com/finance-operations.html#outsourced-finance-lead"
+          "url": "https://www.tga-uae.com/finance-operations#outsourced-finance-lead"
         },
         {
           "name": "Payroll processing",
-          "url": "https://www.tga-uae.com/payroll-hr.html#payroll-processing"
+          "url": "https://www.tga-uae.com/payroll-hr#payroll-processing"
         },
         {
           "name": "Leave & end-of-service calculations",
-          "url": "https://www.tga-uae.com/payroll-hr.html#leave-end-of-service"
+          "url": "https://www.tga-uae.com/payroll-hr#leave-end-of-service"
         },
         {
           "name": "Employee record administration",
-          "url": "https://www.tga-uae.com/payroll-hr.html#employee-records"
+          "url": "https://www.tga-uae.com/payroll-hr#employee-records"
         },
         {
           "name": "WPS file preparation & payment coordination",
-          "url": "https://www.tga-uae.com/payroll-hr.html#wps-support"
+          "url": "https://www.tga-uae.com/payroll-hr#wps-support"
         },
         {
           "name": "Payroll reporting",
-          "url": "https://www.tga-uae.com/payroll-hr.html#payroll-reporting"
+          "url": "https://www.tga-uae.com/payroll-hr#payroll-reporting"
         }
       ]
     },
     {
       "name": "Tax & transfer pricing",
-      "url": "https://www.tga-uae.com/services.html#tax",
+      "url": "https://www.tga-uae.com/services#tax",
       "subservices": [
         {
           "name": "Tax registration & annual filing",
-          "url": "https://www.tga-uae.com/tax-registration-annual-filing.html"
+          "url": "https://www.tga-uae.com/tax-registration-annual-filing"
         },
         {
           "name": "Tax advisory",
-          "url": "https://www.tga-uae.com/tax-advisory.html"
+          "url": "https://www.tga-uae.com/tax-advisory"
         },
         {
           "name": "Transfer pricing studies & benchmarking",
-          "url": "https://www.tga-uae.com/transfer-pricing-studies-benchmarking.html"
+          "url": "https://www.tga-uae.com/transfer-pricing-studies-benchmarking"
         },
         {
           "name": "International transfer pricing",
-          "url": "https://www.tga-uae.com/international-transfer-pricing.html"
+          "url": "https://www.tga-uae.com/international-transfer-pricing"
         },
         {
           "name": "VAT registration & filing",
-          "url": "https://www.tga-uae.com/vat-registration-filing.html"
+          "url": "https://www.tga-uae.com/vat-registration-filing"
         },
         {
           "name": "Corporate Tax registration & filing",
-          "url": "https://www.tga-uae.com/corporate-tax-registration-filing.html"
+          "url": "https://www.tga-uae.com/corporate-tax-registration-filing"
         },
         {
           "name": "VAT & Corporate Tax account amendments",
-          "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing.html#tax-account-amendments"
+          "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing#tax-account-amendments"
         },
         {
           "name": "Tax deregistration support",
-          "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing.html#tax-deregistration"
+          "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing#tax-deregistration"
         },
         {
           "name": "VAT refund preparation",
-          "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing.html#vat-refund-preparation"
+          "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing#vat-refund-preparation"
         },
         {
           "name": "Tax record review",
-          "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing.html#tax-record-review"
+          "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing#tax-record-review"
         },
         {
           "name": "Tax health check",
-          "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing.html#tax-health-check"
+          "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing#tax-health-check"
         },
         {
           "name": "Transaction-specific tax review",
-          "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing.html#transaction-tax-review"
+          "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing#transaction-tax-review"
         },
         {
           "name": "FTA information request support",
-          "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing.html#fta-information-request"
+          "url": "https://www.tga-uae.com/tax-advisory-transfer-pricing#fta-information-request"
         }
       ]
     },
     {
       "name": "Compliance & governance",
-      "url": "https://www.tga-uae.com/services.html#compliance",
+      "url": "https://www.tga-uae.com/services#compliance",
       "subservices": [
         {
           "name": "AML compliance assistance",
-          "url": "https://www.tga-uae.com/aml-compliance-assistance.html"
+          "url": "https://www.tga-uae.com/aml-compliance-assistance"
         },
         {
           "name": "goAML registration support",
-          "url": "https://www.tga-uae.com/goaml-registration-support.html"
+          "url": "https://www.tga-uae.com/goaml-registration-support"
         },
         {
           "name": "Client KYC and due diligence support",
-          "url": "https://www.tga-uae.com/client-kyc-due-diligence.html"
+          "url": "https://www.tga-uae.com/client-kyc-due-diligence"
         },
         {
           "name": "UBO support",
-          "url": "https://www.tga-uae.com/ubo-support.html"
+          "url": "https://www.tga-uae.com/ubo-support"
         },
         {
           "name": "AML risk assessments and policies",
-          "url": "https://www.tga-uae.com/aml-risk-assessments-policies.html"
+          "url": "https://www.tga-uae.com/aml-risk-assessments-policies"
         },
         {
           "name": "Sanctions and PEP screening support",
-          "url": "https://www.tga-uae.com/sanctions-pep-screening.html"
+          "url": "https://www.tga-uae.com/sanctions-pep-screening"
         },
         {
           "name": "Ongoing monitoring and records",
-          "url": "https://www.tga-uae.com/ongoing-monitoring-records.html"
+          "url": "https://www.tga-uae.com/ongoing-monitoring-records"
         },
         {
           "name": "STR and SAR reporting support",
-          "url": "https://www.tga-uae.com/str-sar-reporting-support.html"
+          "url": "https://www.tga-uae.com/str-sar-reporting-support"
         },
         {
           "name": "AML training and review readiness",
-          "url": "https://www.tga-uae.com/aml-training-review-readiness.html"
+          "url": "https://www.tga-uae.com/aml-training-review-readiness"
         },
         {
           "name": "Internal controls review",
-          "url": "https://www.tga-uae.com/governance-operations.html#internal-controls-review"
+          "url": "https://www.tga-uae.com/governance-operations#internal-controls-review"
         },
         {
           "name": "Policy & procedure writing",
-          "url": "https://www.tga-uae.com/governance-operations.html#policies-procedures"
+          "url": "https://www.tga-uae.com/governance-operations#policies-procedures"
         },
         {
           "name": "Board reporting packs",
-          "url": "https://www.tga-uae.com/governance-operations.html#board-reporting"
+          "url": "https://www.tga-uae.com/governance-operations#board-reporting"
         },
         {
           "name": "Compliance calendars",
-          "url": "https://www.tga-uae.com/governance-operations.html#compliance-calendar"
+          "url": "https://www.tga-uae.com/governance-operations#compliance-calendar"
         },
         {
           "name": "Document retention processes",
-          "url": "https://www.tga-uae.com/governance-operations.html#document-retention"
+          "url": "https://www.tga-uae.com/governance-operations#document-retention"
         },
         {
           "name": "Business process reviews",
-          "url": "https://www.tga-uae.com/governance-operations.html#business-process-review"
+          "url": "https://www.tga-uae.com/governance-operations#business-process-review"
         },
         {
           "name": "Transaction due diligence support",
-          "url": "https://www.tga-uae.com/governance-operations.html#transaction-due-diligence"
+          "url": "https://www.tga-uae.com/governance-operations#transaction-due-diligence"
         }
       ]
     },
     {
       "name": "Trade & IP coordination",
-      "url": "https://www.tga-uae.com/services.html#trade-ip",
+      "url": "https://www.tga-uae.com/services#trade-ip",
       "subservices": [
         {
           "name": "Customs business code registration support",
-          "url": "https://www.tga-uae.com/trade-ip.html#customs-business-code"
+          "url": "https://www.tga-uae.com/trade-ip#customs-business-code"
         },
         {
           "name": "Import & export document coordination",
-          "url": "https://www.tga-uae.com/trade-ip.html#import-export-documents"
+          "url": "https://www.tga-uae.com/trade-ip#import-export-documents"
         },
         {
           "name": "Trademark application coordination",
-          "url": "https://www.tga-uae.com/trade-ip.html#trademark-coordination"
+          "url": "https://www.tga-uae.com/trade-ip#trademark-coordination"
         }
       ]
     },
     {
       "name": "Banking & will registration",
-      "url": "https://www.tga-uae.com/services.html#banking-wills",
+      "url": "https://www.tga-uae.com/services#banking-wills",
       "subservices": [
         {
           "name": "Bank Account Opening Assistance",
-          "url": "https://www.tga-uae.com/bank-account-opening-assistance.html"
+          "url": "https://www.tga-uae.com/bank-account-opening-assistance"
         },
         {
           "name": "Will Registration Assistance",
-          "url": "https://www.tga-uae.com/will-registration-assistance.html"
+          "url": "https://www.tga-uae.com/will-registration-assistance"
         }
       ]
     }
   ],
-  "aboutPage": "https://www.tga-uae.com/about.html",
-  "teamPage": "https://www.tga-uae.com/our-team.html",
-  "contactPage": "https://www.tga-uae.com/contact.html",
-  "faqPage": "https://www.tga-uae.com/faq.html",
-  "whyTgaPage": "https://www.tga-uae.com/why-tga.html"
+  "aboutPage": "https://www.tga-uae.com/about",
+  "teamPage": "https://www.tga-uae.com/our-team",
+  "contactPage": "https://www.tga-uae.com/contact",
+  "faqPage": "https://www.tga-uae.com/faq",
+  "whyTgaPage": "https://www.tga-uae.com/why-tga"
 }

@@ -10,4 +10,4 @@ TGA combines professional advice with practical support for UAE business setup, 
 
 TGA has seven or more years of experience in the UAE market and an office in Mankhool, Dubai.
 
-[Read Why TGA](https://www.tga-uae.com/why-tga.html), [meet our team](https://www.tga-uae.com/our-team.html) or [contact us](https://www.tga-uae.com/contact.html).
+[Read Why TGA](https://www.tga-uae.com/why-tga), [meet our team](https://www.tga-uae.com/our-team) or [contact us](https://www.tga-uae.com/contact).

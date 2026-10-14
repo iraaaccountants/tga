@@ -4,7 +4,7 @@ Corporate website for TGA Manangement Consultancy LLC, with a homepage, separate
 
 ## Preview locally
 
-Run a local static server from this directory (for example, `python -m http.server 8000`) and open `http://localhost:8000/`. The site uses plain HTML, CSS, and JavaScript, so no build step is required. Local hosting keeps root-relative home links working as they do on the live site.
+Run `python scripts/preview.py` and open `http://127.0.0.1:8000/`. The preview server serves the same extensionless page URLs as production. The site uses plain HTML, CSS, and JavaScript, so no build step is required.
 
 ## Files
 
@@ -20,12 +20,14 @@ Run a local static server from this directory (for example, `python -m http.serv
 - `script.js` — mobile menu and sticky header behavior
 - `assets/` — WebP logo and photography, client and jurisdiction logos, a labelled team collage, plus square PNG favicon and touch icons; `assets/media-kit/TGA-Media-Kit.zip` contains web-ready downloads
 - `robots.txt` and `sitemap.xml` — crawler guidance for all 54 canonical pages and key page images
-- `scripts/check_seo.py` — checks metadata, structured data syntax, local links, favicon references and sitemap coverage before publishing
+- `scripts/check_seo.py` — checks metadata, structured data syntax, clean local links, favicon references and sitemap coverage before publishing
+- `scripts/preview.py` — previews the site with extensionless page URLs
+- `deploy/nginx-tga.conf` — production routing for clean URLs and permanent redirects from old `.html` page URLs
 - `llms.txt` and `index.md` — concise AI-readable guide and Markdown version of the page content; `llm.txt` points to the standard `llms.txt` filename
 - `business.json` and `openapi.json` — read-only public company profile and its OpenAPI 3.1 description
 
 ## Search and social metadata
 
-Each page has its own title, description, canonical URL, social metadata and structured data for `https://www.tga-uae.com/`. The sitemap lists 36 pages, including brand, Media Kit and website notices; section anchors are not separate pages. The favicon uses PNG and ICO formats for search-engine and browser compatibility. Run `python scripts/check_seo.py` before publishing. The OpenAPI file describes only the static `business.json` resource and does not imply a transactional API. The site is also hosted separately on an nginx server; pushing to GitHub does not update that server automatically. Production nginx redirects `/index.html` to `/` and sends `noindex` headers on the Markdown, JSON and `llms.txt` companion resources so HTML pages remain the search results.
+Each page has its own title, description, canonical URL, social metadata and structured data for `https://www.tga-uae.com/`. The sitemap lists all 54 clean page URLs; section anchors are not separate pages. The favicon uses PNG and ICO formats for search-engine and browser compatibility. Run `python scripts/check_seo.py` before publishing. The OpenAPI file describes only the static `business.json` resource and does not imply a transactional API. The site is also hosted separately on an nginx server; pushing to GitHub does not update that server automatically. Production nginx serves page URLs without `.html`, permanently redirects the old addresses, and sends `noindex` headers on the Markdown, JSON and `llms.txt` companion resources so HTML pages remain the search results.
 
 Contact details and company claims should be reviewed before a public launch.

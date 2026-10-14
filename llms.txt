@@ -23,17 +23,17 @@ The official website is https://www.tga-uae.com/. The company is based at Office
 
 ## Website sections
 
-- [About TGA](https://www.tga-uae.com/about.html): Company overview and mission.
-- [Why TGA](https://www.tga-uae.com/why-tga.html): Approach and practical support.
-- [Services landing page](https://www.tga-uae.com/services.html): Browse all seven grouped service areas and their subservices.
-- [Our Team](https://www.tga-uae.com/our-team.html): Kintu Gandhi, Vyom Acharya, Shivam Gupta, Shivam Tandon, Adarsh Suryavanshi, Rahul Singh, Reshu Pal, Ritik Singh, Michelle Delfin and Sahaj Pushalkar.
-- [Kintu Gandhi](https://www.tga-uae.com/kintu-gandhi.html): Dedicated Managing Partner profile.
-- [Contact](https://www.tga-uae.com/contact.html): Dubai office, telephone numbers and email addresses.
-- [FAQs](https://www.tga-uae.com/faq.html): Common questions, linked service details and relevant authority guidance.
-- [Brand](https://www.tga-uae.com/brand.html): TGA identity and logo guidance.
-- [Media Kit](https://www.tga-uae.com/media-kit.html): Downloadable logo and team images.
-- [Privacy Policy](https://www.tga-uae.com/privacy.html): Website and enquiry privacy notice.
-- [Terms and Conditions](https://www.tga-uae.com/terms.html): Website terms.
+- [About TGA](https://www.tga-uae.com/about): Company overview and mission.
+- [Why TGA](https://www.tga-uae.com/why-tga): Approach and practical support.
+- [Services landing page](https://www.tga-uae.com/services): Browse all seven grouped service areas and their subservices.
+- [Our Team](https://www.tga-uae.com/our-team): Kintu Gandhi, Vyom Acharya, Shivam Gupta, Shivam Tandon, Adarsh Suryavanshi, Rahul Singh, Reshu Pal, Ritik Singh, Michelle Delfin and Sahaj Pushalkar.
+- [Kintu Gandhi](https://www.tga-uae.com/kintu-gandhi): Dedicated Managing Partner profile.
+- [Contact](https://www.tga-uae.com/contact): Dubai office, telephone numbers and email addresses.
+- [FAQs](https://www.tga-uae.com/faq): Common questions, linked service details and relevant authority guidance.
+- [Brand](https://www.tga-uae.com/brand): TGA identity and logo guidance.
+- [Media Kit](https://www.tga-uae.com/media-kit): Downloadable logo and team images.
+- [Privacy Policy](https://www.tga-uae.com/privacy): Website and enquiry privacy notice.
+- [Terms and Conditions](https://www.tga-uae.com/terms): Website terms.
 
 ## Service details
 

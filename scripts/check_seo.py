@@ -80,7 +80,7 @@ def main() -> None:
     for path in pages:
         parsed = PageParser()
         parsed.feed(path.read_text(encoding="utf-8"))
-        expected = SITE if path.name == "index.html" else SITE + path.name
+        expected = SITE if path.name == "index.html" else SITE + path.stem
         canonical_urls.add(expected)
         titles[parsed.title.strip()].append(path.name)
         descriptions[parsed.description.strip()].append(path.name)
@@ -108,8 +108,6 @@ def main() -> None:
 
         outgoing: set[str] = set()
         for href in parsed.links:
-            if href.startswith("index.html"):
-                errors.append(f"{path.name}: home link uses /index.html: {href}")
             url = urlparse(href)
             if url.scheme in ("mailto", "tel", "javascript", "data"):
                 continue
@@ -117,11 +115,16 @@ def main() -> None:
                 continue
             if not url.path and href.startswith("#"):
                 continue
-            target = unquote(url.path).lstrip("/") or "index.html"
+            target = unquote(url.path).lstrip("/")
             if target.endswith(".html"):
-                outgoing.add(target)
-                if not (ROOT / target).is_file():
-                    errors.append(f"{path.name}: broken page link {href}")
+                errors.append(f"{path.name}: page link uses a legacy .html URL: {href}")
+                continue
+            if target and Path(target).suffix:
+                continue
+            page_file = f"{target}.html" if target else "index.html"
+            outgoing.add(page_file)
+            if not (ROOT / page_file).is_file():
+                errors.append(f"{path.name}: broken page link {href}")
         links[path.name] = outgoing
 
     for label, values in (("title", titles), ("description", descriptions)):

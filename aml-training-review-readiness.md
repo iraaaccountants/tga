@@ -28,4 +28,4 @@ Training and review assistance should be tailored to the entity's supervisory ob
 
 Official guidance: [Ministry of Economy and Tourism DNFBP guidance](https://www.moet.gov.ae/documents/20121/465917/DNFBP%2BGuidelines%2B-%2BMarch%2B2026.pdf)
 
-Discuss the service with [TGA](https://www.tga-uae.com/contact.html).
+Discuss the service with [TGA](https://www.tga-uae.com/contact).

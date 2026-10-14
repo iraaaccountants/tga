@@ -19,4 +19,4 @@ Kintu Gandhi is Managing Partner at TGA Manangement Consultancy LLC in Dubai. He
 - Taxation and compliance
 - Cross-border transactions and business questions involving India and the UAE
 
-Kintu works in English, Hindi and Gujarati. His [TGA profile](https://www.tga-uae.com/kintu-gandhi.html) provides more information. To discuss a business matter, [contact TGA](https://www.tga-uae.com/contact.html) or [meet the full team](https://www.tga-uae.com/our-team.html).
+Kintu works in English, Hindi and Gujarati. His [TGA profile](https://www.tga-uae.com/kintu-gandhi) provides more information. To discuss a business matter, [contact TGA](https://www.tga-uae.com/contact) or [meet the full team](https://www.tga-uae.com/our-team).

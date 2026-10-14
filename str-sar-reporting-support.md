@@ -28,4 +28,4 @@ Suspicion and filing decisions belong to the reporting entity and its designated
 
 Official guidance: [UAE Financial Intelligence Unit goAML report types](https://www.uaefiu.gov.ae/media/adperv4o/different-types-of-reports-on-goaml-v1-2-29-apr-2024.pdf)
 
-Discuss the service with [TGA](https://www.tga-uae.com/contact.html).
+Discuss the service with [TGA](https://www.tga-uae.com/contact).

@@ -13,6 +13,6 @@ TGA Manangement Consultancy LLC is a Dubai-based consultancy supporting UAE busi
 - [TGA Management Consultancy LLC lockup — white PNG](https://www.tga-uae.com/assets/tga-company-lockup-white.png)
 - [TGA Management Consultancy LLC lockup — black PNG](https://www.tga-uae.com/assets/tga-company-lockup-black.png)
 - [Team portrait collage](https://www.tga-uae.com/assets/tga-team-collage.webp)
-- [Brand use guidance](https://www.tga-uae.com/brand.html)
+- [Brand use guidance](https://www.tga-uae.com/brand)
 
 The collage is assembled from individual portraits, not a group photograph. The TGA graphic appears where a portrait has not been supplied. The logos are web-resolution PNG files; the collage is WebP. Contact [kintu@tga-uae.com](mailto:kintu@tga-uae.com) for print artwork, alternate formats, image permissions or a factual check before publication.
