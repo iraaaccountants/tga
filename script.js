@@ -3,6 +3,18 @@ const navigation = document.querySelector('.primary-nav');
 const header = document.querySelector('.site-header');
 const servicesMenu = document.querySelector('.nav-services');
 const servicesButton = document.querySelector('.nav-services-toggle');
+let servicesCloseTimer;
+
+function cancelServicesClose() {
+  window.clearTimeout(servicesCloseTimer);
+}
+
+function scheduleServicesClose() {
+  cancelServicesClose();
+  servicesCloseTimer = window.setTimeout(() => {
+    if (!servicesMenu.matches(':hover') && !servicesMenu.contains(document.activeElement)) closeServicesMenu();
+  }, 350);
+}
 
 function updateHeader() {
   header.classList.toggle('is-scrolled', window.scrollY > 40);
@@ -20,12 +32,14 @@ function closeMenu() {
 }
 
 function closeServicesMenu() {
+  cancelServicesClose();
   servicesMenu.classList.remove('open');
   servicesButton.setAttribute('aria-expanded', 'false');
   servicesButton.setAttribute('aria-label', 'Show service links');
 }
 
 function openServicesMenu() {
+  cancelServicesClose();
   servicesMenu.classList.add('open');
   servicesButton.setAttribute('aria-expanded', 'true');
   servicesButton.setAttribute('aria-label', 'Hide service links');
@@ -41,18 +55,18 @@ servicesButton.addEventListener('click', () => {
 });
 
 servicesMenu.addEventListener('mouseenter', () => {
+  cancelServicesClose();
   if (window.matchMedia('(min-width: 761px)').matches) openServicesMenu();
 });
 servicesMenu.addEventListener('mouseleave', () => {
-  if (window.matchMedia('(min-width: 761px)').matches && !servicesMenu.contains(document.activeElement)) closeServicesMenu();
+  if (window.matchMedia('(min-width: 761px)').matches) scheduleServicesClose();
 });
 servicesMenu.addEventListener('focusin', () => {
+  cancelServicesClose();
   if (window.matchMedia('(min-width: 761px)').matches) openServicesMenu();
 });
 servicesMenu.addEventListener('focusout', () => {
-  window.setTimeout(() => {
-    if (!servicesMenu.contains(document.activeElement) && !servicesMenu.matches(':hover')) closeServicesMenu();
-  }, 0);
+  scheduleServicesClose();
 });
 document.addEventListener('pointerdown', event => {
   if (!servicesMenu.contains(event.target)) closeServicesMenu();

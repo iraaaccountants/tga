@@ -168,6 +168,7 @@ body.menu-open .whatsapp-float{visibility:hidden}
 .nav-services-category{display:block;min-height:44px;padding-bottom:12px;border-bottom:1px solid var(--line);color:var(--navy);font-family:Manrope,'DM Sans',Arial,sans-serif;font-size:.87rem;font-weight:800;line-height:1.35}
 .nav-services-group ul{list-style:none;margin:11px 0 0;padding:0}
 .nav-services-group li a{display:block;padding:6px 0;color:#425774;font-size:.8rem;font-weight:600;line-height:1.45}
+@media(min-width:761px){.primary-nav{align-self:stretch}.nav-services{align-self:stretch;display:flex;align-items:center}}
 @media(max-width:760px){
   .primary-nav{max-height:calc(100dvh - 80px);overflow-y:auto;overscroll-behavior:contain}
   .nav-services-trigger{display:flex;justify-content:space-between;gap:0}
