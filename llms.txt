@@ -7,23 +7,26 @@ The official website is https://www.tga-uae.com/. The company is based at Office
 ## Company information
 
 - [Website overview](https://www.tga-uae.com/index.md): Plain-language summary of services, team and contact details.
-- [About TGA and our team](https://www.tga-uae.com/about.md): Company overview and ten team members across leadership, tax, accounting, business setup and digital marketing.
+- [About TGA](https://www.tga-uae.com/about.md): Company overview, services, mission and vision.
+- [Why TGA](https://www.tga-uae.com/why-tga.md): How TGA works with clients.
+- [Our Team](https://www.tga-uae.com/our-team.md): Ten team members across leadership, tax, accounting, business setup and digital marketing.
 - [Kintu Gandhi profile](https://www.tga-uae.com/kintu-gandhi.md): Managing Partner, qualifications and areas of experience.
 - [Contact TGA](https://www.tga-uae.com/contact.md): Dubai office, telephone, WhatsApp and email details.
 - [Frequently asked questions](https://www.tga-uae.com/faq.md): Practical answers about starting work with TGA and its service areas.
 - [TGA branding](https://www.tga-uae.com/brand.md): Purpose, visual identity, colours and brand use.
-- [Media Kit](https://www.tga-uae.com/media-kit.md): Web-ready logos, team portrait assets and download package.
+- [Media Kit](https://www.tga-uae.com/media-kit.md): Web-ready logos, team collage and download package.
 - [Privacy Policy](https://www.tga-uae.com/privacy.md): Information handling for website visitors and enquiries.
 - [Terms and Conditions](https://www.tga-uae.com/terms.md): Terms for using the public website and media assets.
-- [Services directory](https://www.tga-uae.com/services.md): Four categories and 14 individual service pages, including VAT and Corporate Tax filing support.
+- [Services directory](https://www.tga-uae.com/services.md): Seven grouped service areas and dedicated bank account and will registration assistance pages, including VAT and Corporate Tax filing support.
 - [Company profile data](https://www.tga-uae.com/business.json): Read-only JSON record of the same public information.
 - [OpenAPI description](https://www.tga-uae.com/openapi.json): Machine-readable description of the company profile JSON resource.
 
 ## Website sections
 
-- [About TGA](https://www.tga-uae.com/about.html): Company overview and approach.
-- [Services landing page](https://www.tga-uae.com/services.html): Browse all four categories and their subservices.
-- [Our Team](https://www.tga-uae.com/about.html#team): Kintu Gandhi, Vyom Acharya, Shivam Gupta, Shivam Tandon, Adarsh Suryavanshi, Rahul Singh, Reshu Pal, Ritik Singh, Michelle Delfin and Sahaj Pushalkar.
+- [About TGA](https://www.tga-uae.com/about.html): Company overview and mission.
+- [Why TGA](https://www.tga-uae.com/why-tga.html): Approach and practical support.
+- [Services landing page](https://www.tga-uae.com/services.html): Browse all seven grouped service areas and their subservices.
+- [Our Team](https://www.tga-uae.com/our-team.html): Kintu Gandhi, Vyom Acharya, Shivam Gupta, Shivam Tandon, Adarsh Suryavanshi, Rahul Singh, Reshu Pal, Ritik Singh, Michelle Delfin and Sahaj Pushalkar.
 - [Kintu Gandhi](https://www.tga-uae.com/kintu-gandhi.html): Dedicated Managing Partner profile.
 - [Contact](https://www.tga-uae.com/contact.html): Dubai office, telephone numbers and email addresses.
 - [FAQs](https://www.tga-uae.com/faq.html): Common questions, linked service details and relevant authority guidance.
@@ -34,7 +37,24 @@ The official website is https://www.tga-uae.com/. The company is based at Office
 
 ## Service details
 
-- [UAE business setup and PRO services](https://www.tga-uae.com/business-setup-pro.md): Business structure, company setup, PRO, liquidation and Golden Visa assistance.
+- [Visa & Immigration Assistance](https://www.tga-uae.com/visa-immigration.md): Practical application and document coordination for residence, family and visit matters.
+- [Labour & MOHRE Transactions](https://www.tga-uae.com/labour-mohre.md): Employer paperwork and follow-up support for work permits, contracts and labour administration.
+- [Document Clearing, Attestation & Translation](https://www.tga-uae.com/document-clearing.md): Coordinate official documents, attestation, translation and notary steps through the appropriate providers.
+- [Police Clearance Certificate Assistance](https://www.tga-uae.com/police-clearance.md): Application and document coordination for a UAE police clearance certificate request.
+- [POA Registration Assistance](https://www.tga-uae.com/poa-registration-assistance.md): Administrative coordination with appropriate legal and notary providers.
+
+- [Bank account opening assistance](https://www.tga-uae.com/bank-account-opening-assistance.md): Application and document coordination.
+- [Will registration assistance](https://www.tga-uae.com/will-registration-assistance.md): Administrative coordination with legal advice from a qualified specialist.
+- [UAE business setup](https://www.tga-uae.com/business-setup.md): Business structure and company formation support.
+- [PRO services](https://www.tga-uae.com/pro-services.md): Administrative coordination, Golden Visa and liquidation support.
 - [Accounting, bookkeeping and audit support](https://www.tga-uae.com/accounting-bookkeeping-audit.md): Financial records, reporting, audit assistance and IFRS impact work.
 - [UAE tax, VAT and transfer pricing](https://www.tga-uae.com/tax-advisory-transfer-pricing.md): Registration, VAT and Corporate Tax filing, tax advice and transfer pricing studies.
-- [AML compliance assistance](https://www.tga-uae.com/aml-compliance.md): Practical scoping and support for AML questions.
+- [AML compliance assistance](https://www.tga-uae.com/aml-compliance.md): goAML, KYC, UBO, risk controls, screening, monitoring and reporting support.
+- [goAML registration support](https://www.tga-uae.com/goaml-registration-support.md): Prepare entity details and authorised access for the reporting portal.
+- [Client KYC and due diligence support](https://www.tga-uae.com/client-kyc-due-diligence.md): Organise customer identification, verification and risk-based reviews.
+- [UBO support](https://www.tga-uae.com/ubo-support.md): Map beneficial ownership and maintain relevant records.
+- [AML risk assessments and policies](https://www.tga-uae.com/aml-risk-assessments-policies.md): Connect business risks to proportionate policies and controls.
+- [Sanctions and PEP screening support](https://www.tga-uae.com/sanctions-pep-screening.md): Review screening procedures, potential matches and escalation.
+- [Ongoing monitoring and records](https://www.tga-uae.com/ongoing-monitoring-records.md): Structure periodic client reviews, activity checks and records.
+- [STR and SAR reporting support](https://www.tga-uae.com/str-sar-reporting-support.md): Support the responsible officer with report preparation and workflow.
+- [AML training and review readiness](https://www.tga-uae.com/aml-training-review-readiness.md): Prepare staff training and evidence for compliance reviews.

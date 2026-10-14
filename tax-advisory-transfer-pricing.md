@@ -37,3 +37,19 @@ Contact: [TGA website](https://www.tga-uae.com/#contact) or email kintu@tga-uae.
 
 - [Corporate Tax registration (FTA)](https://www.tax.gov.ae/en/services/corporate.tax.registration.aspx)
 - [Corporate Tax returns (FTA)](https://tax.gov.ae/en/content/corporate.tax.return.aspx)
+
+## Additional support
+
+- [Tax registration & annual filing](https://www.tga-uae.com/tax-registration-annual-filing.html).
+- [Tax advisory](https://www.tga-uae.com/tax-advisory.html).
+- [Transfer pricing studies & benchmarking](https://www.tga-uae.com/transfer-pricing-studies-benchmarking.html).
+- [International transfer pricing](https://www.tga-uae.com/international-transfer-pricing.html).
+- [VAT registration & filing](https://www.tga-uae.com/vat-registration-filing.html).
+- [Corporate Tax registration & filing](https://www.tga-uae.com/corporate-tax-registration-filing.html).
+- [VAT & Corporate Tax account amendments](https://www.tga-uae.com/tax-advisory-transfer-pricing.html#tax-account-amendments).
+- [Tax deregistration support](https://www.tga-uae.com/tax-advisory-transfer-pricing.html#tax-deregistration).
+- [VAT refund preparation](https://www.tga-uae.com/tax-advisory-transfer-pricing.html#vat-refund-preparation).
+- [Tax record review](https://www.tga-uae.com/tax-advisory-transfer-pricing.html#tax-record-review).
+- [Tax health check](https://www.tga-uae.com/tax-advisory-transfer-pricing.html#tax-health-check).
+- [Transaction-specific tax review](https://www.tga-uae.com/tax-advisory-transfer-pricing.html#transaction-tax-review).
+- [FTA information request support](https://www.tga-uae.com/tax-advisory-transfer-pricing.html#fta-information-request).

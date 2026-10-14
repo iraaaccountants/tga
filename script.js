@@ -79,3 +79,49 @@ document.addEventListener('keydown', event => {
 });
 
 document.querySelector('#year').textContent = new Date().getFullYear();
+
+const numbersCard = document.querySelector('.tga-numbers-card');
+if (numbersCard && 'IntersectionObserver' in window && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+  const counters = [...numbersCard.querySelectorAll('[data-count]')];
+  const observer = new IntersectionObserver(entries => {
+    if (!entries.some(entry => entry.intersectionRatio >= 0.8)) return;
+    observer.disconnect();
+
+    const start = performance.now();
+    const duration = 1200;
+    const update = now => {
+      const progress = Math.min((now - start) / duration, 1);
+      const eased = 1 - Math.pow(1 - progress, 3);
+      counters.forEach(counter => {
+        const target = Number(counter.dataset.count);
+        const suffix = progress === 1 ? (counter.dataset.suffix || '') : '';
+        counter.textContent = Math.round(target * eased) + suffix;
+      });
+      if (progress < 1) requestAnimationFrame(update);
+    };
+
+    counters.forEach(counter => { counter.textContent = '0'; });
+    requestAnimationFrame(update);
+  }, { threshold: 0.8 });
+  observer.observe(numbersCard);
+}
+
+// Reveal content as it enters view without hiding it when motion is reduced.
+if ('IntersectionObserver' in window && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+  const textBlocks = [...document.querySelectorAll('main h1, main h2, main h3, main h4, main p, main li, main blockquote, main dt, main dd, main figcaption')]
+    .filter(element => element.getClientRects().length && !element.closest('details:not([open])'));
+  const revealObserver = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (!entry.isIntersecting) return;
+      entry.target.classList.add('is-visible');
+      revealObserver.unobserve(entry.target);
+    });
+  }, { rootMargin: '0px 0px -8% 0px', threshold: 0.01 });
+
+  textBlocks.forEach(element => {
+    if (element.getBoundingClientRect().top < window.innerHeight * 0.92) return;
+    element.classList.add('scroll-reveal');
+    revealObserver.observe(element);
+  });
+  document.documentElement.classList.add('reveal-ready');
+}

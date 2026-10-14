@@ -1,36 +1,20 @@
 # AML compliance assistance
 
-> A workable compliance approach starts with understanding your business, the requirements relevant to it and the records already in place.
+> Practical support with the anti-money laundering requirements relevant to a UAE business.
 
-Turn compliance questions into a plan.
+TGA can help review the existing approach and agree support for the areas that apply to the entity.
 
-Anti-money laundering questions can be difficult to address through a generic checklist. The practical issues depend on what a business does, how it deals with customers and transactions, and the requirements that apply to its activities.
-TGA includes AML compliance assistance in its service profile. We begin by understanding the business and its current approach, then agree what support is useful. The engagement can focus on clarifying open questions, reviewing available information and organising practical next steps.
+## Individual services
 
-## Where the discussion can focus
+- [Goaml Registration Support](https://www.tga-uae.com/goaml-registration-support.md): Prepare entity details and authorised access for the reporting portal.
+- [Client Kyc And Due Diligence Support](https://www.tga-uae.com/client-kyc-due-diligence.md): Organise customer identification, verification and risk-based reviews.
+- [Ubo Support](https://www.tga-uae.com/ubo-support.md): Map beneficial ownership and maintain relevant records.
+- [Aml Risk Assessments And Policies](https://www.tga-uae.com/aml-risk-assessments-policies.md): Connect business risks to proportionate policies and controls.
+- [Sanctions And Pep Screening Support](https://www.tga-uae.com/sanctions-pep-screening.md): Review screening procedures, potential matches and escalation.
+- [Ongoing Monitoring And Records](https://www.tga-uae.com/ongoing-monitoring-records.md): Structure periodic client reviews, activity checks and records.
+- [Str And Sar Reporting Support](https://www.tga-uae.com/str-sar-reporting-support.md): Support the responsible officer with report preparation and workflow.
+- [Aml Training And Review Readiness](https://www.tga-uae.com/aml-training-review-readiness.md): Prepare staff training and evidence for compliance reviews.
 
-- **Business activities:** Describe the services, customer relationships and transaction patterns that shape the compliance questions you face.
-- **Existing information:** Review what policies, procedures, responsibilities and records are already available for discussion.
-- **Areas needing attention:** Identify gaps or questions that require further review before a sensible support plan can be agreed.
-- **Practical next steps:** Set priorities for the assistance required and the information the business needs to gather or maintain.
+Whether a specific obligation applies depends on the business and its regulator. Filing decisions and official submissions remain the responsibility of the reporting entity and its authorised officer.
 
-## A focused starting process
-
-1. **Understand the business:** We discuss your activities and the AML concerns that led you to seek support.
-2. **Review the current approach:** We look at the information and practices you already have in place.
-3. **Agree the scope:** We identify the assistance that fits the business and the questions that need specialist review.
-
-## Helpful information to share
-
-- Description of business activities and customer types
-- Current AML policies or internal procedures, if any
-- Roles responsible for compliance matters
-- Specific questions or deadlines you need to address
-
-Whether a specific AML obligation applies, and what measures are required, depends on the business and current rules. The scope of TGA’s assistance is agreed for each engagement.
-
-Contact: [TGA website](https://www.tga-uae.com/#contact) or email kintu@tga-uae.com.
-
-## Official guidance
-
-- [UAE anti-money laundering guidance (Ministry of Economy and Tourism)](https://www.moet.gov.ae/en/aml3)
+Contact [TGA](https://www.tga-uae.com/contact.html) to discuss scope.

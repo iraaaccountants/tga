@@ -97,6 +97,10 @@
           "faqPage": {
             "type": "string",
             "format": "uri"
+          },
+          "whyTgaPage": {
+            "type": "string",
+            "format": "uri"
           }
         }
       },

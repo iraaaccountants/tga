@@ -1,31 +1,24 @@
 # About TGA Manangement Consultancy LLC
 
-TGA supports companies in Dubai and across the UAE with business structure and setup, accounting, financial reporting, tax and compliance matters. With more than five years of experience in the UAE market, the team begins with each client’s business context and agrees a practical scope of work.
+TGA supports companies in Dubai and across the UAE with business structure and setup, accounting, financial reporting, tax and compliance matters. With seven or more years of experience in the UAE market, the team begins with each client’s business context and agrees a practical scope of work.
 
 ## What we do
 
-- [Business setup and PRO services](https://www.tga-uae.com/business-setup-pro.html)
+- [Business setup](https://www.tga-uae.com/business-setup.html) and [PRO services](https://www.tga-uae.com/pro-services.html)
 - [Accounting and financial reporting](https://www.tga-uae.com/accounting-bookkeeping-audit.html)
 - [Tax and transfer pricing](https://www.tga-uae.com/tax-advisory-transfer-pricing.html)
 - [AML compliance assistance](https://www.tga-uae.com/aml-compliance.html)
 
 ## Our team
 
-- [Kintu Gandhi](https://www.tga-uae.com/kintu-gandhi.html) — Managing Partner
-- Vyom Acharya — Partner
-- Shivam Gupta — Manager, Tax Division
-- Shivam Tandon — Senior Accountant
-- Adarsh Suryavanshi — Tax Consultant, Tax Division
-- Rahul Singh — Senior Accountant, Account Division
-- Reshu Pal — Accountant, Account Division
-- Ritik Singh — Account Executive, Account Division
-- Michelle Delfin — Business Setup Consultant, CSP Division
-- Sahaj Pushalkar — Digital Marketing Executive
+[Meet the TGA team](https://www.tga-uae.com/our-team.html) across leadership, tax, accounting, business setup and digital marketing.
+
+[Why TGA](https://www.tga-uae.com/why-tga.html) explains our approach to client work.
 
 [Contact TGA](https://www.tga-uae.com/contact.html) to discuss a business matter.
 
 ## Experience, mission and vision
 
-TGA's supplied company profile states more than five years of experience in the UAE market. Its mission is to provide professional advice and practical support that adds value for clients. Its vision is to offer financial and business solutions that improve business processes and support commercial goals.
+TGA presents seven or more years of experience in the UAE market. Its mission is to provide professional advice and practical support that adds value for clients. Its vision is to offer financial and business solutions that improve business processes and support commercial goals.
 
 The current office address supplied by TGA is Office 105, Al Jawhara Building, Mankhool, Dubai, UAE. Contact details in the original profile have been superseded by the details TGA supplied for this website.

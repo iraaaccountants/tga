@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.tga-uae.com/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <image:image>
       <image:loc>https://www.tga-uae.com/assets/dubai-skyline.webp</image:loc>
     </image:image>
@@ -15,7 +15,7 @@
   </url>
   <url>
     <loc>https://www.tga-uae.com/services.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
   </url>
   <url>
     <loc>https://www.tga-uae.com/about.html</loc>
@@ -74,7 +74,7 @@
   </url>
   <url>
     <loc>https://www.tga-uae.com/aml-compliance.html</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
   </url>
   <url>
     <loc>https://www.tga-uae.com/business-structure-advisory.html</loc>
@@ -157,4 +157,54 @@
     <loc>https://www.tga-uae.com/terms.html</loc>
     <lastmod>2026-10-13</lastmod>
   </url>
+  <url>
+    <loc>https://www.tga-uae.com/goaml-registration-support.html</loc>
+    <lastmod>2026-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tga-uae.com/client-kyc-due-diligence.html</loc>
+    <lastmod>2026-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tga-uae.com/ubo-support.html</loc>
+    <lastmod>2026-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tga-uae.com/aml-risk-assessments-policies.html</loc>
+    <lastmod>2026-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tga-uae.com/sanctions-pep-screening.html</loc>
+    <lastmod>2026-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tga-uae.com/ongoing-monitoring-records.html</loc>
+    <lastmod>2026-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tga-uae.com/str-sar-reporting-support.html</loc>
+    <lastmod>2026-10-14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.tga-uae.com/aml-training-review-readiness.html</loc>
+    <lastmod>2026-10-14</lastmod>
+  </url>
+  <url><loc>https://www.tga-uae.com/business-setup.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/pro-services.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/company-licensing.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/employee-pro.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/finance-operations.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/payroll-hr.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/governance-operations.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/trade-ip.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/banking-wills.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/bank-account-opening-assistance.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/will-registration-assistance.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/visa-immigration.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/labour-mohre.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/document-clearing.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/police-clearance.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/poa-registration-assistance.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/why-tga.html</loc><lastmod>2026-10-14</lastmod></url>
+  <url><loc>https://www.tga-uae.com/our-team.html</loc><lastmod>2026-10-14</lastmod></url>
 </urlset>
