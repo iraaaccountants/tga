@@ -4,6 +4,6 @@ Application and document coordination for a UAE police clearance certificate req
 
 ## What we cover
 
-- [Police Clearance Certificate Assistance](https://www.tga-uae.com/police-clearance#police-clearance-certificate): Help residents and former residents prepare information for the relevant good conduct certificate application.
+- [Police Clearance Certificate Assistance](https://www.tga-uae.com/services/pro-visas/police-clearance#police-clearance-certificate): Help residents and former residents prepare information for the relevant good conduct certificate application.
 
 TGA provides application and document coordination. The relevant authority or qualified provider decides on approvals and legal documents.

@@ -17,9 +17,9 @@ TGA helps organise these decisions and documents, then coordinates the agreed fo
 
 ## Additional support
 
-- [Business structure advisory](https://www.tga-uae.com/business-structure-advisory).
-- [Company formation support](https://www.tga-uae.com/company-setup-pro-services).
-- [Mainland & free zone comparison](https://www.tga-uae.com/business-setup#jurisdiction-comparison).
-- [Trade name reservation support](https://www.tga-uae.com/business-setup#trade-name-reservation).
-- [Licence activity selection](https://www.tga-uae.com/business-setup#licence-activity-selection).
-- [Branch setup support](https://www.tga-uae.com/business-setup#branch-setup).
+- [Business structure advisory](https://www.tga-uae.com/services/business-setup/business-structure-advisory).
+- [Company formation support](https://www.tga-uae.com/services/business-setup/company-setup-pro-services).
+- [Mainland & free zone comparison](https://www.tga-uae.com/services/business-setup/company-formation#jurisdiction-comparison).
+- [Trade name reservation support](https://www.tga-uae.com/services/business-setup/company-formation#trade-name-reservation).
+- [Licence activity selection](https://www.tga-uae.com/services/business-setup/company-formation#licence-activity-selection).
+- [Branch setup support](https://www.tga-uae.com/services/business-setup/company-formation#branch-setup).

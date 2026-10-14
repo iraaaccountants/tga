@@ -22,15 +22,15 @@ The home page highlights TGA's expertise in business setup, accounting, tax advi
 - **UAE tax, VAT and transfer pricing:** Tax registration and annual filing support, VAT and Corporate Tax registration and filing, tax advice, transfer pricing studies and benchmarking, and international transfer pricing.
 - **AML compliance assistance:** Support for goAML registration, client KYC, UBO records, AML risk controls, screening, monitoring, STR/SAR reporting preparation and training where applicable.
 
-Browse the [complete services and subservices directory](https://www.tga-uae.com/services), or read the full service pages: [business setup](https://www.tga-uae.com/business-setup), [PRO services](https://www.tga-uae.com/pro-services), [accounting and audit support](https://www.tga-uae.com/accounting-bookkeeping-audit), [tax and transfer pricing](https://www.tga-uae.com/tax-advisory-transfer-pricing), and [AML compliance](https://www.tga-uae.com/aml-compliance).
+Browse the [complete services and subservices directory](https://www.tga-uae.com/services), or read the full service pages: [business setup](https://www.tga-uae.com/services/business-setup/company-formation), [PRO services](https://www.tga-uae.com/services/pro-visas/pro-services), [accounting and audit support](https://www.tga-uae.com/services/accounting-finance/accounting-bookkeeping-audit), [tax and transfer pricing](https://www.tga-uae.com/services/tax-transfer-pricing/tax-advisory-transfer-pricing), and [AML compliance](https://www.tga-uae.com/services/compliance-governance/aml-compliance).
 
 ### Individual service pages
 
-- Business setup: [business structure advisory](https://www.tga-uae.com/business-structure-advisory), [formation planning](https://www.tga-uae.com/business-setup#formation-planning), [formation information](https://www.tga-uae.com/company-setup-pro-services), and [setup coordination](https://www.tga-uae.com/business-setup#setup-coordination).
-- PRO services: [PRO coordination](https://www.tga-uae.com/pro-services#pro-coordination), [applications and documents](https://www.tga-uae.com/pro-services#application-documents), [Golden Visa assistance](https://www.tga-uae.com/golden-visa-assistance), and [liquidation assistance](https://www.tga-uae.com/liquidation-process-assistance).
-- Accounting: [accounting and bookkeeping](https://www.tga-uae.com/accounting-bookkeeping), [audit and assurance assistance](https://www.tga-uae.com/audit-assurance-assistance), and [IFRS studies and impact assessments](https://www.tga-uae.com/ifrs-studies-impact-assessments).
-- Tax: [tax registration and annual filing](https://www.tga-uae.com/tax-registration-annual-filing), [tax advisory](https://www.tga-uae.com/tax-advisory), [transfer pricing studies and benchmarking](https://www.tga-uae.com/transfer-pricing-studies-benchmarking), [international transfer pricing](https://www.tga-uae.com/international-transfer-pricing), [VAT registration and filing](https://www.tga-uae.com/vat-registration-filing), and [Corporate Tax registration and filing](https://www.tga-uae.com/corporate-tax-registration-filing).
-- Compliance: [AML compliance assistance](https://www.tga-uae.com/aml-compliance-assistance).
+- Business setup: [business structure advisory](https://www.tga-uae.com/services/business-setup/business-structure-advisory), [formation planning](https://www.tga-uae.com/services/business-setup/company-formation#formation-planning), [formation information](https://www.tga-uae.com/services/business-setup/company-setup-pro-services), and [setup coordination](https://www.tga-uae.com/services/business-setup/company-formation#setup-coordination).
+- PRO services: [PRO coordination](https://www.tga-uae.com/services/pro-visas/pro-services#pro-coordination), [applications and documents](https://www.tga-uae.com/services/pro-visas/pro-services#application-documents), [Golden Visa assistance](https://www.tga-uae.com/services/pro-visas/golden-visa-assistance), and [liquidation assistance](https://www.tga-uae.com/services/pro-visas/liquidation-process-assistance).
+- Accounting: [accounting and bookkeeping](https://www.tga-uae.com/services/accounting-finance/accounting-bookkeeping), [audit and assurance assistance](https://www.tga-uae.com/services/accounting-finance/audit-assurance-assistance), and [IFRS studies and impact assessments](https://www.tga-uae.com/services/accounting-finance/ifrs-studies-impact-assessments).
+- Tax: [tax registration and annual filing](https://www.tga-uae.com/services/tax-transfer-pricing/tax-registration-annual-filing), [tax advisory](https://www.tga-uae.com/services/tax-transfer-pricing/tax-advisory), [transfer pricing studies and benchmarking](https://www.tga-uae.com/services/tax-transfer-pricing/transfer-pricing-studies-benchmarking), [international transfer pricing](https://www.tga-uae.com/services/tax-transfer-pricing/international-transfer-pricing), [VAT registration and filing](https://www.tga-uae.com/services/tax-transfer-pricing/vat-registration-filing), and [Corporate Tax registration and filing](https://www.tga-uae.com/services/tax-transfer-pricing/corporate-tax-registration-filing).
+- Compliance: [AML compliance assistance](https://www.tga-uae.com/services/compliance-governance/aml-compliance-assistance).
 
 ## Our team
 
@@ -50,20 +50,20 @@ Website notices: [Privacy Policy](https://www.tga-uae.com/privacy) and [Terms an
 
 ## Additional services
 
-- [Company licensing & changes](https://www.tga-uae.com/company-licensing).
-- [Employee & PRO support](https://www.tga-uae.com/employee-pro).
-- [Finance operations](https://www.tga-uae.com/finance-operations).
-- [Payroll & HR administration](https://www.tga-uae.com/payroll-hr).
-- [Governance & operations](https://www.tga-uae.com/governance-operations).
-- [Trade & IP coordination](https://www.tga-uae.com/trade-ip).
-- [Banking & will registration assistance](https://www.tga-uae.com/banking-wills).
-- [Bank Account Opening Assistance](https://www.tga-uae.com/bank-account-opening-assistance).
-- [Will Registration Assistance](https://www.tga-uae.com/will-registration-assistance).
+- [Company licensing & changes](https://www.tga-uae.com/services/business-setup/company-licensing).
+- [Employee & PRO support](https://www.tga-uae.com/services/pro-visas/employee-pro).
+- [Finance operations](https://www.tga-uae.com/services/accounting-finance/finance-operations).
+- [Payroll & HR administration](https://www.tga-uae.com/services/accounting-finance/payroll-hr).
+- [Governance & operations](https://www.tga-uae.com/services/compliance-governance/governance-operations).
+- [Trade & IP coordination](https://www.tga-uae.com/services/trade-ip/trade-ip-coordination).
+- [Banking & will registration assistance](https://www.tga-uae.com/services/banking-wills/banking-will-registration).
+- [Bank Account Opening Assistance](https://www.tga-uae.com/services/banking-wills/bank-account-opening-assistance).
+- [Will Registration Assistance](https://www.tga-uae.com/services/banking-wills/will-registration-assistance).
 
 ## Visa and document support
 
-- [Visa & Immigration Assistance](https://www.tga-uae.com/visa-immigration).
-- [Labour & MOHRE Transactions](https://www.tga-uae.com/labour-mohre).
-- [Document Clearing, Attestation & Translation](https://www.tga-uae.com/document-clearing).
-- [Police Clearance Certificate Assistance](https://www.tga-uae.com/police-clearance).
-- [POA Registration Assistance](https://www.tga-uae.com/poa-registration-assistance).
+- [Visa & Immigration Assistance](https://www.tga-uae.com/services/pro-visas/visa-immigration).
+- [Labour & MOHRE Transactions](https://www.tga-uae.com/services/pro-visas/labour-mohre).
+- [Document Clearing, Attestation & Translation](https://www.tga-uae.com/services/pro-visas/document-clearing).
+- [Police Clearance Certificate Assistance](https://www.tga-uae.com/services/pro-visas/police-clearance).
+- [POA Registration Assistance](https://www.tga-uae.com/services/pro-visas/poa-registration-assistance).

@@ -4,10 +4,10 @@ TGA supports companies in Dubai and across the UAE with business structure and s
 
 ## What we do
 
-- [Business setup](https://www.tga-uae.com/business-setup) and [PRO services](https://www.tga-uae.com/pro-services)
-- [Accounting and financial reporting](https://www.tga-uae.com/accounting-bookkeeping-audit)
-- [Tax and transfer pricing](https://www.tga-uae.com/tax-advisory-transfer-pricing)
-- [AML compliance assistance](https://www.tga-uae.com/aml-compliance)
+- [Business setup](https://www.tga-uae.com/services/business-setup/company-formation) and [PRO services](https://www.tga-uae.com/services/pro-visas/pro-services)
+- [Accounting and financial reporting](https://www.tga-uae.com/services/accounting-finance/accounting-bookkeeping-audit)
+- [Tax and transfer pricing](https://www.tga-uae.com/services/tax-transfer-pricing/tax-advisory-transfer-pricing)
+- [AML compliance assistance](https://www.tga-uae.com/services/compliance-governance/aml-compliance)
 
 ## Our team
 

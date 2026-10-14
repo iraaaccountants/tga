@@ -4,8 +4,8 @@ Understand the selected registration route and organise the documents and appoin
 
 ## What we cover
 
-- [Registration route coordination](https://www.tga-uae.com/will-registration-assistance#registration-route): Identify the relevant registration authority and its current process with a qualified adviser.
-- [Document organisation](https://www.tga-uae.com/will-registration-assistance#document-organisation): Bring together identity, asset and beneficiary information requested for the matter.
-- [Appointment coordination](https://www.tga-uae.com/will-registration-assistance#appointment-coordination): Help track the application and any registration appointment or follow-up.
+- [Registration route coordination](https://www.tga-uae.com/services/banking-wills/will-registration-assistance#registration-route): Identify the relevant registration authority and its current process with a qualified adviser.
+- [Document organisation](https://www.tga-uae.com/services/banking-wills/will-registration-assistance#document-organisation): Bring together identity, asset and beneficiary information requested for the matter.
+- [Appointment coordination](https://www.tga-uae.com/services/banking-wills/will-registration-assistance#appointment-coordination): Help track the application and any registration appointment or follow-up.
 
 [Contact TGA](https://www.tga-uae.com/contact)
